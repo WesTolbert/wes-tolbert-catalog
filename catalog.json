@@ -33,6 +33,10 @@
     {
       "id": "music",
       "label": "Music"
+    },
+    {
+      "id": "fashion",
+      "label": "Fashion"
     }
   ],
   "listOptions": [
