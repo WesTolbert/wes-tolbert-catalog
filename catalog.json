@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12",
+  "updatedAt": "2026-11-13T17:08:55Z",
   "categories": [
     {
       "id": "books",
@@ -162,7 +162,10 @@
       "audibleUrl": "https://www.audible.com/pd/The-Name-of-the-Wind-Audiobook/B002V1OF70",
       "price": 9.99,
       "rating": 4.5,
-      "year": 2007
+      "year": 2007,
+      "mentalModels": [
+        "circle-of-competence"
+      ]
     },
     {
       "id": "educated",
@@ -271,7 +274,10 @@
       "rating": 4.5,
       "year": 2021,
       "list": "staff-pick",
-      "cover": "https://images-na.ssl-images-amazon.com/images/P/1956763678.01._SCLZZZZZZZ_.jpg"
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/1956763678.01._SCLZZZZZZZ_.jpg",
+      "mentalModels": [
+        "opportunity-cost"
+      ]
     },
     {
       "id": "cloud-cuckoo-land",
@@ -290,7 +296,10 @@
       "rating": 4.3,
       "year": 2021,
       "list": "trending",
-      "cover": "https://images-na.ssl-images-amazon.com/images/P/1982168447.01._SCLZZZZZZZ_.jpg"
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/1982168447.01._SCLZZZZZZZ_.jpg",
+      "mentalModels": [
+        "inversion"
+      ]
     },
     {
       "id": "the-anthropocene-reviewed",
@@ -309,7 +318,10 @@
       "rating": 4.6,
       "year": 2021,
       "list": "staff-pick",
-      "cover": "https://images-na.ssl-images-amazon.com/images/P/0525556532.01._SCLZZZZZZZ_.jpg"
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0525556532.01._SCLZZZZZZZ_.jpg",
+      "mentalModels": [
+        "narrative-fallacy"
+      ]
     },
     {
       "id": "a-line-made-by-walking",
@@ -327,7 +339,10 @@
       "rating": 4.1,
       "year": 2017,
       "list": "new-arrival",
-      "cover": "https://images-na.ssl-images-amazon.com/images/P/1328915816.01._SCLZZZZZZZ_.jpg"
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/1328915816.01._SCLZZZZZZZ_.jpg",
+      "mentalModels": [
+        "map-is-not-the-territory"
+      ]
     },
     {
       "id": "the-overstory",
@@ -346,7 +361,10 @@
       "rating": 4.4,
       "year": 2018,
       "list": "trending",
-      "cover": "https://images-na.ssl-images-amazon.com/images/P/039335668X.01._SCLZZZZZZZ_.jpg"
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/039335668X.01._SCLZZZZZZZ_.jpg",
+      "mentalModels": [
+        "compounding"
+      ]
     },
     {
       "id": "ways-of-seeing",
@@ -385,7 +403,10 @@
       "rating": 4.8,
       "year": 1965,
       "list": "trending",
-      "cover": "https://images-na.ssl-images-amazon.com/images/P/0441013597.01._SCLZZZZZZZ_.jpg"
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0441013597.01._SCLZZZZZZZ_.jpg",
+      "mentalModels": [
+        "second-order-thinking"
+      ]
     },
     {
       "id": "the-design-of-everyday-things",
@@ -404,7 +425,10 @@
       "rating": 4.6,
       "year": 1988,
       "list": "staff-pick",
-      "cover": "https://images-na.ssl-images-amazon.com/images/P/0465050654.01._SCLZZZZZZZ_.jpg"
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0465050654.01._SCLZZZZZZZ_.jpg",
+      "mentalModels": [
+        "first-principles"
+      ]
     },
     {
       "id": "the-law-of-the-sublime",
@@ -442,7 +466,10 @@
       "description": "For the man who's holding it all together — family, work, money, responsibility — but quietly burning out. A guide to carrying more of life's load without breaking under it. (Description drafted from the book's cover copy.)",
       "amazonUrl": "https://www.amazon.com/dp/B0HGNPHB7D",
       "list": "new-arrival",
-      "mentalModels": []
+      "mentalModels": [
+        "system-1-system-2"
+      ],
+      "year": 2026
     }
   ],
   "products": [
