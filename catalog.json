@@ -411,6 +411,22 @@
       ],
       "year": 2026,
       "list": "new-arrival"
+    },
+    {
+      "id": "carry-more-without-breaking",
+      "title": "Carry More Without Breaking",
+      "author": "Benjamin Lavoie",
+      "genre": "Self-Help",
+      "themes": [
+        "Personal Growth",
+        "Mental Health",
+        "Psychology"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/B0HGNPHB7D.01._SCLZZZZZZZ_.jpg",
+      "description": "For the man who's holding it all together — family, work, money, responsibility — but quietly burning out. A guide to carrying more of life's load without breaking under it. (Description drafted from the book's cover copy.)",
+      "amazonUrl": "https://www.amazon.com/dp/B0HGNPHB7D",
+      "list": "new-arrival",
+      "mentalModels": []
     }
   ],
   "products": [
