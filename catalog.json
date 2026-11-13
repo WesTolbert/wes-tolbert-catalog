@@ -29,6 +29,10 @@
     {
       "id": "travel",
       "label": "Travel"
+    },
+    {
+      "id": "music",
+      "label": "Music"
     }
   ],
   "listOptions": [
