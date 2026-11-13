@@ -60,7 +60,7 @@
         "Personal Growth",
         "Psychology"
       ],
-      "cover": "https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg",
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0735211299.01._SCLZZZZZZZ_.jpg",
       "description": "An easy and proven way to build good habits and break bad ones through tiny changes that deliver remarkable results.",
       "amazonUrl": "https://www.amazon.com/dp/0735211299",
       "audibleUrl": "https://www.audible.com/pd/Atomic-Habits-Audiobook/B07RFSSYBH",
@@ -83,7 +83,7 @@
         "Adventure",
         "Friendship"
       ],
-      "cover": "https://covers.openlibrary.org/b/isbn/9780593135204-L.jpg",
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0593135202.01._SCLZZZZZZZ_.jpg",
       "description": "A lone astronaut must save humanity from extinction — but he can't remember why he was sent.",
       "amazonUrl": "https://www.amazon.com/dp/0593135202",
       "audibleUrl": "https://www.audible.com/pd/Project-Hail-Mary-Audiobook/0593415051",
@@ -106,7 +106,7 @@
         "Mental Health",
         "Personal Growth"
       ],
-      "cover": "https://covers.openlibrary.org/b/isbn/9780525559474-L.jpg",
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0525559477.01._SCLZZZZZZZ_.jpg",
       "description": "Between life and death is a library, and within that library, the shelves go on forever.",
       "amazonUrl": "https://www.amazon.com/dp/0525559477",
       "audibleUrl": "https://www.audible.com/pd/The-Midnight-Library-Audiobook/0593395174",
@@ -129,7 +129,7 @@
         "Anthropology",
         "Philosophy"
       ],
-      "cover": "https://covers.openlibrary.org/b/isbn/9780062316097-L.jpg",
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0062316095.01._SCLZZZZZZZ_.jpg",
       "description": "A sweeping narrative of humanity from the Stone Age to the twenty-first century.",
       "amazonUrl": "https://www.amazon.com/dp/0062316095",
       "audibleUrl": "https://www.audible.com/pd/Sapiens-Audiobook/B0741F3M7C",
@@ -152,7 +152,7 @@
         "Adventure",
         "Coming of Age"
       ],
-      "cover": "https://covers.openlibrary.org/b/isbn/9780756404741-L.jpg",
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0756404746.01._SCLZZZZZZZ_.jpg",
       "description": "The riveting first-person narrative of Kvothe, a young man who grows to become the most notorious wizard his world has ever seen.",
       "amazonUrl": "https://www.amazon.com/dp/0756404746",
       "audibleUrl": "https://www.audible.com/pd/The-Name-of-the-Wind-Audiobook/B002V1OF70",
@@ -170,7 +170,7 @@
         "Personal Growth",
         "Education"
       ],
-      "cover": "https://covers.openlibrary.org/b/isbn/9780399590504-L.jpg",
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0399590501.01._SCLZZZZZZZ_.jpg",
       "description": "A memoir about a young girl who, kept out of school, leaves her survivalist family and goes on to earn a PhD from Cambridge.",
       "amazonUrl": "https://www.amazon.com/dp/0399590501",
       "audibleUrl": "https://www.audible.com/pd/Educated-Audiobook/B078X2WGRD",
@@ -215,7 +215,7 @@
         "Love",
         "War"
       ],
-      "cover": "https://covers.openlibrary.org/b/isbn/9780062060624-L.jpg",
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0062060627.01._SCLZZZZZZZ_.jpg",
       "description": "A tale of gods, kings, immortal fame, and the human heart, retelling the story of the Iliad.",
       "amazonUrl": "https://www.amazon.com/dp/0062060627",
       "audibleUrl": "https://www.audible.com/pd/The-Song-of-Achilles-Audiobook/B0079GH0PG",
@@ -236,7 +236,7 @@
         "Decision Making",
         "Behavioral Economics"
       ],
-      "cover": "https://covers.openlibrary.org/b/isbn/9780374533557-L.jpg",
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0374533555.01._SCLZZZZZZZ_.jpg",
       "description": "A tour of the mind explaining the two systems that drive the way we think — one fast and intuitive, the other slow and deliberate.",
       "amazonUrl": "https://www.amazon.com/dp/0374533555",
       "audibleUrl": "https://www.audible.com/pd/Thinking-Fast-and-Slow-Audiobook/B005Z9GAJG",
@@ -266,7 +266,8 @@
       "price": 24,
       "rating": 4.5,
       "year": 2021,
-      "list": "staff-pick"
+      "list": "staff-pick",
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/1956763678.01._SCLZZZZZZZ_.jpg"
     },
     {
       "id": "cloud-cuckoo-land",
@@ -284,7 +285,8 @@
       "price": 18.5,
       "rating": 4.3,
       "year": 2021,
-      "list": "trending"
+      "list": "trending",
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/1982168447.01._SCLZZZZZZZ_.jpg"
     },
     {
       "id": "the-anthropocene-reviewed",
@@ -302,7 +304,8 @@
       "price": 21,
       "rating": 4.6,
       "year": 2021,
-      "list": "staff-pick"
+      "list": "staff-pick",
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0525556532.01._SCLZZZZZZZ_.jpg"
     },
     {
       "id": "a-line-made-by-walking",
@@ -319,7 +322,8 @@
       "price": 16,
       "rating": 4.1,
       "year": 2017,
-      "list": "new-arrival"
+      "list": "new-arrival",
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/1328915816.01._SCLZZZZZZZ_.jpg"
     },
     {
       "id": "the-overstory",
@@ -337,7 +341,8 @@
       "price": 19,
       "rating": 4.4,
       "year": 2018,
-      "list": "trending"
+      "list": "trending",
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/039335668X.01._SCLZZZZZZZ_.jpg"
     },
     {
       "id": "ways-of-seeing",
@@ -357,7 +362,8 @@
       "amazonUrl": "https://www.amazon.com/dp/0140135154",
       "rating": 4.7,
       "year": 1972,
-      "list": "staff-pick"
+      "list": "staff-pick",
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0140135154.01._SCLZZZZZZZ_.jpg"
     },
     {
       "id": "dune",
@@ -374,7 +380,8 @@
       "price": 14.5,
       "rating": 4.8,
       "year": 1965,
-      "list": "trending"
+      "list": "trending",
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0441013597.01._SCLZZZZZZZ_.jpg"
     },
     {
       "id": "the-design-of-everyday-things",
@@ -392,7 +399,8 @@
       "price": 20,
       "rating": 4.6,
       "year": 1988,
-      "list": "staff-pick"
+      "list": "staff-pick",
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0465050654.01._SCLZZZZZZZ_.jpg"
     },
     {
       "id": "the-law-of-the-sublime",
