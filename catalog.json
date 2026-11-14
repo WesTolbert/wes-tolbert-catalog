@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T17:08:55Z",
+  "updatedAt": "2026-11-14T23:14:07Z",
   "categories": [
     {
       "id": "books",
@@ -138,7 +138,7 @@
         "Friendship"
       ],
       "cover": "https://images-na.ssl-images-amazon.com/images/P/0593135202.01._SCLZZZZZZZ_.jpg",
-      "description": "A lone astronaut must save humanity from extinction \u2014 but he can't remember why he was sent.",
+      "description": "A lone astronaut must save humanity from extinction — but he can't remember why he was sent.",
       "amazonUrl": "https://www.amazon.com/dp/0593135202",
       "audibleUrl": "https://www.audible.com/pd/Project-Hail-Mary-Audiobook/0593415051",
       "mentalModels": [
@@ -251,7 +251,7 @@
         "Psychology"
       ],
       "cover": "https://covers.openlibrary.org/b/isbn/9780307588371-L.jpg",
-      "description": "On a warm summer morning in Missouri, it is Nick and Amy Dunne's fifth wedding anniversary \u2014 and Amy has disappeared.",
+      "description": "On a warm summer morning in Missouri, it is Nick and Amy Dunne's fifth wedding anniversary — and Amy has disappeared.",
       "amazonUrl": "https://www.amazon.com/dp/030758837X",
       "audibleUrl": "https://www.audible.com/pd/Gone-Girl-Audiobook/B008UKW9U8",
       "mentalModels": [
@@ -294,7 +294,7 @@
         "Behavioral Economics"
       ],
       "cover": "https://images-na.ssl-images-amazon.com/images/P/0374533555.01._SCLZZZZZZZ_.jpg",
-      "description": "A tour of the mind explaining the two systems that drive the way we think \u2014 one fast and intuitive, the other slow and deliberate.",
+      "description": "A tour of the mind explaining the two systems that drive the way we think — one fast and intuitive, the other slow and deliberate.",
       "amazonUrl": "https://www.amazon.com/dp/0374533555",
       "audibleUrl": "https://www.audible.com/pd/Thinking-Fast-and-Slow-Audiobook/B005Z9GAJG",
       "mentalModels": [
@@ -492,7 +492,7 @@
       ],
       "cover": "https://images-na.ssl-images-amazon.com/images/P/1984881043.01._SCLZZZZZZZ_.jpg",
       "backCover": "/covers/law-of-the-sublime-back.jpg",
-      "description": "From the author of The 48 Laws of Power: a guide to the sublime \u2014 the moments of awe that break us out of the narrow circle of everyday consciousness \u2014 drawn from science, history, art, and nature, with practical exercises in every chapter. Greene wrote it over seven years following his stroke.",
+      "description": "From the author of The 48 Laws of Power: a guide to the sublime — the moments of awe that break us out of the narrow circle of everyday consciousness — drawn from science, history, art, and nature, with practical exercises in every chapter. Greene wrote it over seven years following his stroke.",
       "amazonUrl": "https://www.amazon.com/dp/1984881043",
       "audibleUrl": "https://www.amazon.com/dp/B0GYH6KPW3",
       "price": 38,
@@ -513,13 +513,32 @@
         "Psychology"
       ],
       "cover": "https://images-na.ssl-images-amazon.com/images/P/B0HGNPHB7D.01._SCLZZZZZZZ_.jpg",
-      "description": "For the man who's holding it all together \u2014 family, work, money, responsibility \u2014 but quietly burning out. A guide to carrying more of life's load without breaking under it. (Description drafted from the book's cover copy.)",
+      "description": "For the man who's holding it all together — family, work, money, responsibility — but quietly burning out. A guide to carrying more of life's load without breaking under it. (Description drafted from the book's cover copy.)",
       "amazonUrl": "https://www.amazon.com/dp/B0HGNPHB7D",
       "list": "new-arrival",
       "mentalModels": [
         "system-1-system-2"
       ],
       "year": 2026
+    },
+    {
+      "id": "the-negro-motorist-green-book-compendium",
+      "title": "The Negro Motorist Green Book Compendium",
+      "author": "Victor H. Green",
+      "genre": "Non-Fiction",
+      "themes": [
+        "History",
+        "Travel",
+        "Culture"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/1949996069.01._SCLZZZZZZZ_.jpg",
+      "description": "Four complete editions of Victor Green's landmark travel guide — 1938, 1947, 1954, and 1963–64 — reproduced in one volume: the hotels, restaurants, garages, and businesses where Black travelers could safely stop, eat, and sleep in segregated America, decade by decade.",
+      "amazonUrl": "https://www.amazon.com/dp/1949996069",
+      "list": "new-arrival",
+      "mentalModels": [
+        "map-is-not-the-territory"
+      ],
+      "year": 2019
     }
   ],
   "products": [
@@ -539,7 +558,7 @@
       "id": "stride",
       "name": "Stride",
       "category": "finance",
-      "description": "The free app to simplify self-employment \u2014 save on insurance, taxes ($710/year on average), and more.",
+      "description": "The free app to simplify self-employment — save on insurance, taxes ($710/year on average), and more.",
       "externalUrl": "https://stride.app.link/Pr31Dmc907b",
       "ctaLabel": "Join for free",
       "referral": true
@@ -548,7 +567,7 @@
       "id": "hopper",
       "name": "Hopper",
       "category": "travel",
-      "description": "Book flights, hotels, and more \u2014 with price prediction to book at the right time.",
+      "description": "Book flights, hotels, and more — with price prediction to book at the right time.",
       "externalUrl": "https://sharing.hopper.com/invite/west26v",
       "ctaLabel": "Join Hopper",
       "referral": true
@@ -571,7 +590,7 @@
       "id": "inversion",
       "name": "Inversion",
       "discipline": "Philosophy",
-      "summary": "Solve problems backward \u2014 figure out what you want to avoid, then avoid it."
+      "summary": "Solve problems backward — figure out what you want to avoid, then avoid it."
     },
     {
       "id": "second-order-thinking",
@@ -601,7 +620,7 @@
       "id": "map-is-not-the-territory",
       "name": "Map Is Not the Territory",
       "discipline": "Epistemology",
-      "summary": "Our models of reality are not reality itself \u2014 beware confusing them."
+      "summary": "Our models of reality are not reality itself — beware confusing them."
     },
     {
       "id": "circle-of-competence",
