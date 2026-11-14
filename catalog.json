@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T23:14:07Z",
+  "updatedAt": "2026-11-14T23:30:35Z",
   "categories": [
     {
       "id": "books",
@@ -539,6 +539,158 @@
         "map-is-not-the-territory"
       ],
       "year": 2019
+    },
+    {
+      "id": "the-dictators-handbook",
+      "title": "The Dictator's Handbook",
+      "author": "Bruce Bueno de Mesquita & Alastair Smith",
+      "genre": "Non-Fiction",
+      "themes": [
+        "Power",
+        "Politics",
+        "Leadership"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/1610391845.01._SCLZZZZZZZ_.jpg",
+      "description": "Bueno de Mesquita and Smith argue that leaders in every system survive by satisfying the small coalition that keeps them in power, which is why bad behavior is so often good politics.",
+      "amazonUrl": "https://www.amazon.com/dp/1610391845",
+      "list": "new-arrival",
+      "mentalModels": [
+        "second-order-thinking"
+      ],
+      "year": 2011
+    },
+    {
+      "id": "the-denial-of-death",
+      "title": "The Denial of Death",
+      "author": "Ernest Becker",
+      "genre": "Philosophy",
+      "themes": [
+        "Mortality",
+        "Culture",
+        "Human Nature"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0684832402.01._SCLZZZZZZZ_.jpg",
+      "description": "Becker's Pulitzer Prize–winning argument that the awareness of death is the central fact of human psychology, and that culture, heroism, and achievement are built to deny it.",
+      "amazonUrl": "https://www.amazon.com/dp/0684832402",
+      "list": "new-arrival",
+      "mentalModels": [
+        "loss-aversion"
+      ],
+      "year": 1973
+    },
+    {
+      "id": "the-status-game",
+      "title": "The Status Game",
+      "author": "Will Storr",
+      "genre": "Psychology",
+      "themes": [
+        "Status",
+        "Social Psychology",
+        "Human Nature"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0008354677.01._SCLZZZZZZZ_.jpg",
+      "description": "Storr examines how humans compete for status through games of dominance, virtue, and success, and how that competition shapes groups, politics, and everyday life.",
+      "amazonUrl": "https://www.amazon.com/dp/0008354677",
+      "list": "new-arrival",
+      "mentalModels": [
+        "system-1-system-2"
+      ],
+      "year": 2021
+    },
+    {
+      "id": "the-farther-reaches-of-human-nature",
+      "title": "The Farther Reaches of Human Nature",
+      "author": "Abraham H. Maslow",
+      "genre": "Psychology",
+      "themes": [
+        "Self-Actualization",
+        "Human Potential",
+        "Psychology"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0140194703.01._SCLZZZZZZZ_.jpg",
+      "description": "Published after his death, Maslow's final book extends his work on human motivation into self-actualization, peak experiences, and the farther reaches of human growth.",
+      "amazonUrl": "https://www.amazon.com/dp/0140194703",
+      "list": "new-arrival",
+      "mentalModels": [
+        "first-principles"
+      ],
+      "year": 1971
+    },
+    {
+      "id": "the-courage-to-be-disliked",
+      "title": "The Courage to Be Disliked",
+      "author": "Ichiro Kishimi & Fumitake Koga",
+      "genre": "Self-Help",
+      "themes": [
+        "Personal Growth",
+        "Happiness",
+        "Philosophy"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/1668069539.01._SCLZZZZZZZ_.jpg",
+      "description": "In a series of dialogues between a philosopher and a young man, Kishimi and Koga present Alfred Adler's psychology as a case that freedom and happiness do not depend on other people's approval.",
+      "amazonUrl": "https://www.amazon.com/dp/1668069539",
+      "list": "new-arrival",
+      "mentalModels": [
+        "inversion"
+      ],
+      "year": 2018
+    },
+    {
+      "id": "understanding-human-nature",
+      "title": "Understanding Human Nature",
+      "author": "Alfred Adler",
+      "genre": "Psychology",
+      "themes": [
+        "Personality",
+        "Human Nature",
+        "Psychology"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/B0CDV2LRQ9.01._SCLZZZZZZZ_.jpg",
+      "description": "Drawn from Adler's public lectures in Vienna, this is his own introduction to individual psychology: how inferiority, striving, and early experience form personality and character.",
+      "amazonUrl": "https://www.amazon.com/dp/B0CDV2LRQ9",
+      "list": "new-arrival",
+      "mentalModels": [
+        "map-is-not-the-territory"
+      ],
+      "year": 1927
+    },
+    {
+      "id": "man-and-his-symbols",
+      "title": "Man and His Symbols",
+      "author": "Carl G. Jung",
+      "genre": "Psychology",
+      "themes": [
+        "The Unconscious",
+        "Dreams",
+        "Archetypes"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0440351839.01._SCLZZZZZZZ_.jpg",
+      "description": "Jung and four of his closest associates introduce his psychology of the unconscious, dreams, and symbols in an illustrated volume written for general readers.",
+      "amazonUrl": "https://www.amazon.com/dp/0440351839",
+      "list": "new-arrival",
+      "mentalModels": [
+        "narrative-fallacy"
+      ],
+      "year": 1964
+    },
+    {
+      "id": "the-origins-and-history-of-consciousness",
+      "title": "The Origins and History of Consciousness",
+      "author": "Erich Neumann",
+      "genre": "Psychology",
+      "themes": [
+        "Consciousness",
+        "Mythology",
+        "Archetypes"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0691163596.01._SCLZZZZZZZ_.jpg",
+      "description": "Neumann, one of Jung's leading students, uses world mythology to trace how individual consciousness develops through the same archetypal stages as human consciousness as a whole.",
+      "amazonUrl": "https://www.amazon.com/dp/0691163596",
+      "list": "new-arrival",
+      "mentalModels": [
+        "compounding"
+      ],
+      "year": 1949
     }
   ],
   "products": [
