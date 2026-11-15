@@ -841,6 +841,196 @@
     "first-principles"
    ],
    "year": 1999
+  },
+  {
+   "id": "letters-from-a-stoic",
+   "title": "Letters from a Stoic",
+   "author": "Seneca",
+   "genre": "Philosophy",
+   "themes": [
+    "Stoicism",
+    "Time",
+    "Virtue"
+   ],
+   "cover": "https://images-na.ssl-images-amazon.com/images/P/0140442103.01._SCLZZZZZZZ_.jpg",
+   "description": "Late in his life, Seneca wrote 124 letters to his friend Lucilius on how to live: time, death, wealth, friendship, and self-command. This Penguin selection of forty of them is the classic English entry point.",
+   "amazonUrl": "https://www.amazon.com/dp/0140442103",
+   "list": "new-arrival",
+   "mentalModels": [
+    "opportunity-cost"
+   ],
+   "year": 1969
+  },
+  {
+   "id": "discourses-and-selected-writings",
+   "title": "Discourses and Selected Writings",
+   "author": "Epictetus",
+   "genre": "Philosophy",
+   "themes": [
+    "Stoicism",
+    "Freedom",
+    "Self-Discipline"
+   ],
+   "cover": "https://images-na.ssl-images-amazon.com/images/P/0140449469.01._SCLZZZZZZZ_.jpg",
+   "description": "Epictetus, born enslaved and later freed, taught that freedom is internal: his student Arrian transcribed these lectures on what is and is not in our power, and this edition adds the Enchiridion, his handbook.",
+   "amazonUrl": "https://www.amazon.com/dp/0140449469",
+   "list": "new-arrival",
+   "mentalModels": [
+    "circle-of-competence"
+   ],
+   "year": 2008
+  },
+  {
+   "id": "on-obligations",
+   "title": "On Obligations",
+   "author": "Cicero",
+   "genre": "Philosophy",
+   "themes": [
+    "Duty",
+    "Ethics",
+    "Leadership"
+   ],
+   "cover": "https://images-na.ssl-images-amazon.com/images/P/0199540713.01._SCLZZZZZZZ_.jpg",
+   "description": "Written in the last year of his life and addressed to his son, Cicero's De Officiis sets out what a person in public life owes: to justice, to country, and to their own character when duty and advantage collide.",
+   "amazonUrl": "https://www.amazon.com/dp/0199540713",
+   "list": "new-arrival",
+   "mentalModels": [
+    "second-order-thinking"
+   ],
+   "year": 2009
+  },
+  {
+   "id": "the-inner-citadel",
+   "title": "The Inner Citadel",
+   "author": "Pierre Hadot",
+   "genre": "Philosophy",
+   "themes": [
+    "Stoicism",
+    "Marcus Aurelius",
+    "Spiritual Exercises"
+   ],
+   "cover": "https://images-na.ssl-images-amazon.com/images/P/0674007077.01._SCLZZZZZZZ_.jpg",
+   "description": "Hadot's landmark study of Marcus Aurelius's Meditations shows the notebook for what it was: not a diary but a discipline — spiritual exercises built on Epictetus's three disciplines of desire, action, and assent.",
+   "amazonUrl": "https://www.amazon.com/dp/0674007077",
+   "list": "new-arrival",
+   "mentalModels": [
+    "map-is-not-the-territory"
+   ],
+   "year": 1998
+  },
+  {
+   "id": "courage-under-fire",
+   "title": "Courage Under Fire",
+   "author": "James B. Stockdale",
+   "genre": "Philosophy",
+   "themes": [
+    "Stoicism",
+    "Endurance",
+    "Leadership"
+   ],
+   "cover": "https://images-na.ssl-images-amazon.com/images/P/0817936920.01._SCLZZZZZZZ_.jpg",
+   "description": "Vice Admiral James Stockdale, shot down over North Vietnam in 1965, spent seven and a half years as the senior POW in the Hanoi Hilton. This short book — its full title is Testing Epictetus's Doctrines in a Laboratory of Human Behavior — is his account of how the Enchiridion he had memorized carried him and the men he led through it.",
+   "amazonUrl": "https://www.amazon.com/dp/0817936920",
+   "list": "new-arrival",
+   "mentalModels": [
+    "second-order-thinking"
+   ],
+   "year": 1993
+  },
+  {
+   "id": "a-guide-to-the-good-life",
+   "title": "A Guide to the Good Life",
+   "author": "William B. Irvine",
+   "genre": "Philosophy",
+   "themes": [
+    "Stoicism",
+    "Happiness",
+    "Practice"
+   ],
+   "cover": "https://images-na.ssl-images-amazon.com/images/P/0195374614.01._SCLZZZZZZZ_.jpg",
+   "description": "A philosophy professor's modern manual for Stoic practice — negative visualization, the dichotomy of control, voluntary discomfort — aimed at its original goal: not suppressing joy but securing it.",
+   "amazonUrl": "https://www.amazon.com/dp/0195374614",
+   "list": "new-arrival",
+   "mentalModels": [
+    "loss-aversion"
+   ],
+   "year": 2008
+  },
+  {
+   "id": "how-to-be-a-stoic",
+   "title": "How to Be a Stoic",
+   "author": "Massimo Pigliucci",
+   "genre": "Philosophy",
+   "themes": [
+    "Stoicism",
+    "Modern Life",
+    "Practice"
+   ],
+   "cover": "https://images-na.ssl-images-amazon.com/images/P/1541644530.01._SCLZZZZZZZ_.jpg",
+   "description": "A philosopher works through Stoicism in imagined conversation with Epictetus himself — the disciplines of desire, action, and assent translated into a program for modern life.",
+   "amazonUrl": "https://www.amazon.com/dp/1541644530",
+   "list": "new-arrival",
+   "mentalModels": [
+    "first-principles"
+   ],
+   "year": 2017
+  },
+  {
+   "id": "how-to-think-like-a-roman-emperor",
+   "title": "How to Think Like a Roman Emperor",
+   "author": "Donald Robertson",
+   "genre": "Philosophy",
+   "themes": [
+    "Stoicism",
+    "Marcus Aurelius",
+    "Psychology"
+   ],
+   "cover": "https://images-na.ssl-images-amazon.com/images/P/1250621437.01._SCLZZZZZZZ_.jpg",
+   "description": "A cognitive-behavioral therapist tells the life of Marcus Aurelius as a worked example — each chapter pairs an episode from the emperor's life with the Stoic practice he used to meet it.",
+   "amazonUrl": "https://www.amazon.com/dp/1250621437",
+   "list": "new-arrival",
+   "mentalModels": [
+    "system-1-system-2"
+   ],
+   "year": 2019
+  },
+  {
+   "id": "the-obstacle-is-the-way",
+   "title": "The Obstacle Is the Way",
+   "author": "Ryan Holiday",
+   "genre": "Self-Help",
+   "themes": [
+    "Stoicism",
+    "Resilience",
+    "Achievement"
+   ],
+   "cover": "https://images-na.ssl-images-amazon.com/images/P/1591846358.01._SCLZZZZZZZ_.jpg",
+   "description": "Holiday retells Marcus Aurelius's line — the impediment to action advances action — through stories of Rockefeller, Amelia Earhart, Ulysses S. Grant, and Steve Jobs: perception, action, and will as a formula for turning trials into triumph.",
+   "amazonUrl": "https://www.amazon.com/dp/1591846358",
+   "list": "new-arrival",
+   "mentalModels": [
+    "inversion"
+   ],
+   "year": 2014
+  },
+  {
+   "id": "the-daily-stoic",
+   "title": "The Daily Stoic",
+   "author": "Ryan Holiday & Stephen Hanselman",
+   "genre": "Self-Help",
+   "themes": [
+    "Stoicism",
+    "Daily Practice",
+    "Wisdom"
+   ],
+   "cover": "https://images-na.ssl-images-amazon.com/images/P/0735211736.01._SCLZZZZZZZ_.jpg",
+   "description": "A year of Stoicism, one page per day: a passage from Marcus Aurelius, Seneca, or Epictetus with a short modern commentary, organized by the disciplines of perception, action, and will.",
+   "amazonUrl": "https://www.amazon.com/dp/0735211736",
+   "list": "new-arrival",
+   "mentalModels": [
+    "compounding"
+   ],
+   "year": 2016
   }
  ],
  "products": [
