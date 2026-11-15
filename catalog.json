@@ -1031,6 +1031,25 @@
     "compounding"
    ],
    "year": 2016
+  },
+  {
+   "id": "meditations",
+   "title": "Meditations",
+   "author": "Marcus Aurelius",
+   "genre": "Philosophy",
+   "themes": [
+    "Stoicism",
+    "Marcus Aurelius",
+    "Self-Examination"
+   ],
+   "cover": "https://images-na.ssl-images-amazon.com/images/P/0679642609.01._SCLZZZZZZZ_.jpg",
+   "description": "The private notebooks of Rome's philosopher-emperor, written in Greek on campaign and never meant for publication — a working discipline of attention, mortality, and duty. Gregory Hays's Modern Library translation is the modern standard: spare, direct, and the version most often recommended.",
+   "amazonUrl": "https://www.amazon.com/dp/0679642609",
+   "list": "new-arrival",
+   "mentalModels": [
+    "circle-of-competence"
+   ],
+   "year": 2002
   }
  ],
  "products": [
