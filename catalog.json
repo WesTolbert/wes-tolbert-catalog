@@ -1517,6 +1517,235 @@
         "narrative-fallacy"
       ],
       "year": 2011
+    },
+    {
+      "id": "the-knowledge",
+      "title": "The Knowledge: How to Rebuild Civilization in the Aftermath of a Cataclysm",
+      "author": "Lewis Dartnell",
+      "genre": "Non-Fiction",
+      "themes": [
+        "Civilization",
+        "Science & Technology",
+        "Rebuilding"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0143127047.01._SCLZZZZZZZ_.jpg",
+      "description": "Dartnell's reboot manual for civilization: the agriculture, chemistry, materials, and medicine you would need to restart the world after a collapse — and a tour of how much knowledge modern life quietly depends on.",
+      "amazonUrl": "https://www.amazon.com/dp/0143127047",
+      "list": "new-arrival",
+      "mentalModels": [
+        "first-principles"
+      ],
+      "year": 2015
+    },
+    {
+      "id": "the-making-of-the-atomic-bomb",
+      "title": "The Making of the Atomic Bomb",
+      "author": "Richard Rhodes",
+      "genre": "Non-Fiction",
+      "themes": [
+        "History",
+        "Science",
+        "War"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/1451677618.01._SCLZZZZZZZ_.jpg",
+      "description": "Rhodes' Pulitzer-winning history of the bomb: from the first splitting of the atom through Los Alamos to Hiroshima, told through the scientists who saw what was coming and built it anyway.",
+      "amazonUrl": "https://www.amazon.com/dp/1451677618",
+      "list": "new-arrival",
+      "mentalModels": [
+        "second-order-thinking"
+      ],
+      "year": 2012
+    },
+    {
+      "id": "the-information",
+      "title": "The Information: A History, a Theory, a Flood",
+      "author": "James Gleick",
+      "genre": "Non-Fiction",
+      "themes": [
+        "Information",
+        "Technology",
+        "Communication"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/1400096235.01._SCLZZZZZZZ_.jpg",
+      "description": "Gleick traces information from African talking drums through Morse, Babbage, and Shannon to the modern flood: how a substance nobody could see became the thing civilization runs on — and drowns in.",
+      "amazonUrl": "https://www.amazon.com/dp/1400096235",
+      "list": "new-arrival",
+      "mentalModels": [
+        "feedback-loops"
+      ],
+      "year": 2012
+    },
+    {
+      "id": "the-invention-of-nature",
+      "title": "The Invention of Nature: Alexander von Humboldt's New World",
+      "author": "Andrea Wulf",
+      "genre": "Non-Fiction",
+      "themes": [
+        "Biography",
+        "Nature",
+        "Science History"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0345806298.01._SCLZZZZZZZ_.jpg",
+      "description": "Wulf recovers Alexander von Humboldt, the forgotten father of environmentalism: the first to see nature as a living web, connecting climate, vegetation, and human damage across continents.",
+      "amazonUrl": "https://www.amazon.com/dp/0345806298",
+      "list": "new-arrival",
+      "mentalModels": [
+        "emergence"
+      ],
+      "year": 2016
+    },
+    {
+      "id": "seeing-like-a-state",
+      "title": "Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed",
+      "author": "James C. Scott",
+      "genre": "Non-Fiction",
+      "themes": [
+        "Government",
+        "Planning",
+        "Systems"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0300078153.01._SCLZZZZZZZ_.jpg",
+      "description": "Scott on why grand schemes to improve the human condition so often fail: states simplify living societies into legible grids, then mistake the map for the territory — and crush the local knowledge that made things work.",
+      "amazonUrl": "https://www.amazon.com/dp/0300078153",
+      "list": "new-arrival",
+      "mentalModels": [
+        "map-is-not-the-territory"
+      ],
+      "year": 1999
+    },
+    {
+      "id": "the-box",
+      "title": "The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger",
+      "author": "Marc Levinson",
+      "genre": "Non-Fiction",
+      "themes": [
+        "Trade",
+        "Globalization",
+        "Innovation"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0691170819.01._SCLZZZZZZZ_.jpg",
+      "description": "Levinson tells how a plain steel box — the shipping container — cut the cost of moving goods by more than ninety percent and quietly remade ports, cities, and the entire world economy.",
+      "amazonUrl": "https://www.amazon.com/dp/0691170819",
+      "list": "new-arrival",
+      "mentalModels": [
+        "second-order-thinking"
+      ],
+      "year": 2016
+    },
+    {
+      "id": "the-master-and-his-emissary",
+      "title": "The Master and His Emissary: The Divided Brain and the Making of the Western World",
+      "author": "Iain McGilchrist",
+      "genre": "Psychology",
+      "themes": [
+        "Brain",
+        "Attention",
+        "Culture"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0300188374.01._SCLZZZZZZZ_.jpg",
+      "description": "McGilchrist argues the brain's two hemispheres attend to the world in rival ways — one grasping the whole, one seizing the parts — and that Western culture has increasingly handed authority to the wrong one.",
+      "amazonUrl": "https://www.amazon.com/dp/0300188374",
+      "list": "new-arrival",
+      "mentalModels": [
+        "system-1-system-2"
+      ],
+      "year": 2010
+    },
+    {
+      "id": "structures",
+      "title": "Structures: Or Why Things Don't Fall Down",
+      "author": "J.E. Gordon",
+      "genre": "Non-Fiction",
+      "themes": [
+        "Engineering",
+        "Materials",
+        "Design"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0306812835.01._SCLZZZZZZZ_.jpg",
+      "description": "Gordon explains, with wit and almost no mathematics, why bridges stand, dams hold, and knees work: stress, strain, elasticity, and the safety margins built into everything from cathedrals to kangaroos.",
+      "amazonUrl": "https://www.amazon.com/dp/0306812835",
+      "list": "new-arrival",
+      "mentalModels": [
+        "margin-of-safety"
+      ],
+      "year": 2003
+    },
+    {
+      "id": "metaphors-we-live-by",
+      "title": "Metaphors We Live By",
+      "author": "George Lakoff & Mark Johnson",
+      "genre": "Philosophy",
+      "themes": [
+        "Language",
+        "Metaphor",
+        "Cognition"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0226468011.01._SCLZZZZZZZ_.jpg",
+      "description": "Lakoff and Johnson's classic argument that metaphor is not decoration but the machinery of thought itself: we understand arguments as war, time as money, and ideas as objects — and those framings steer what we do.",
+      "amazonUrl": "https://www.amazon.com/dp/0226468011",
+      "list": "new-arrival",
+      "mentalModels": [
+        "map-is-not-the-territory"
+      ],
+      "year": 2003
+    },
+    {
+      "id": "impro",
+      "title": "Impro: Improvisation and the Theatre",
+      "author": "Keith Johnstone",
+      "genre": "Non-Fiction",
+      "themes": [
+        "Improvisation",
+        "Theatre",
+        "Status",
+        "Creativity"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0878301178.01._SCLZZZZZZZ_.jpg",
+      "description": "Johnstone's landmark on improvisation: status games, spontaneity, and narrative skill — why we block our own imaginations, and the exercises that unblock them. A theatre book that reads as a manual for creative life.",
+      "amazonUrl": "https://www.amazon.com/dp/0878301178",
+      "list": "new-arrival",
+      "mentalModels": [
+        "social-proof"
+      ],
+      "year": 1987
+    },
+    {
+      "id": "the-horse-the-wheel-and-language",
+      "title": "The Horse, the Wheel, and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped the Modern World",
+      "author": "David W. Anthony",
+      "genre": "Non-Fiction",
+      "themes": [
+        "Archaeology",
+        "Linguistics",
+        "Prehistory"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/069114818X.01._SCLZZZZZZZ_.jpg",
+      "description": "Anthony solves a two-century puzzle — where the Indo-European languages came from — by joining archaeology to linguistics: steppe riders who tamed the horse and built the wheel, and spread a language family now spoken by half the world.",
+      "amazonUrl": "https://www.amazon.com/dp/069114818X",
+      "list": "new-arrival",
+      "mentalModels": [
+        "compounding"
+      ],
+      "year": 2010
+    },
+    {
+      "id": "the-visual-display-of-quantitative-information",
+      "title": "The Visual Display of Quantitative Information",
+      "author": "Edward R. Tufte",
+      "genre": "Design",
+      "themes": [
+        "Data Visualization",
+        "Design",
+        "Statistics"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/096139210X.01._SCLZZZZZZZ_.jpg",
+      "description": "Tufte's founding text of data visualization: data-ink, chartjunk, small multiples, and the ethics of showing numbers honestly — the Strunk & White of graphs, printed as beautifully as it preaches.",
+      "amazonUrl": "https://www.amazon.com/dp/096139210X",
+      "list": "new-arrival",
+      "mentalModels": [
+        "map-is-not-the-territory"
+      ],
+      "year": 1983
     }
   ],
   "products": [
