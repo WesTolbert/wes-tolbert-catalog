@@ -1746,6 +1746,25 @@
         "map-is-not-the-territory"
       ],
       "year": 1983
+    },
+    {
+      "id": "the-psychology-of-money",
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "genre": "Business",
+      "themes": [
+        "Personal Finance",
+        "Behavior",
+        "Wealth"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0857197681.01._SCLZZZZZZZ_.jpg",
+      "description": "Nineteen short stories on the strange ways people think about wealth, greed, and happiness — why doing well with money has less to do with what you know than with how you behave.",
+      "amazonUrl": "https://www.amazon.com/dp/0857197681",
+      "list": "new-arrival",
+      "mentalModels": [
+        "compounding"
+      ],
+      "year": 2020
     }
   ],
   "products": [
