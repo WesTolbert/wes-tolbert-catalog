@@ -1183,6 +1183,329 @@
         "second-order-thinking"
       ],
       "year": 1993
+    },
+    {
+      "id": "thinking-in-systems",
+      "title": "Thinking in Systems",
+      "author": "Donella H. Meadows",
+      "genre": "Non-Fiction",
+      "themes": [
+        "Systems Thinking",
+        "Feedback Loops",
+        "Problem Solving"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/1603580557.01._SCLZZZZZZZ_.jpg",
+      "description": "Meadows' primer on how systems actually behave: stocks, flows, feedback loops, and the traps (policy resistance, shifting burdens) that make well-meant fixes backfire.",
+      "amazonUrl": "https://www.amazon.com/dp/1603580557",
+      "list": "new-arrival",
+      "mentalModels": [
+        "second-order-thinking"
+      ],
+      "year": 2008
+    },
+    {
+      "id": "the-fifth-discipline",
+      "title": "The Fifth Discipline",
+      "author": "Peter M. Senge",
+      "genre": "Business",
+      "themes": [
+        "Organizational Learning",
+        "Systems Thinking",
+        "Leadership"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0385517254.01._SCLZZZZZZZ_.jpg",
+      "description": "Senge's classic on the learning organization: five disciplines, with systems thinking as the fifth that integrates the rest, and the archetypes that explain recurring organizational behavior.",
+      "amazonUrl": "https://www.amazon.com/dp/0385517254",
+      "list": "new-arrival",
+      "mentalModels": [
+        "compounding"
+      ],
+      "year": 2006
+    },
+    {
+      "id": "complexity-a-guided-tour",
+      "title": "Complexity: A Guided Tour",
+      "author": "Melanie Mitchell",
+      "genre": "Non-Fiction",
+      "themes": [
+        "Complexity",
+        "Emergence",
+        "Networks"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0199798109.01._SCLZZZZZZZ_.jpg",
+      "description": "A Santa Fe Institute tour of complexity science: how ant colonies, immune systems, economies, and the web produce large-scale order from simple local interactions.",
+      "amazonUrl": "https://www.amazon.com/dp/0199798109",
+      "list": "new-arrival",
+      "mentalModels": [
+        "map-is-not-the-territory"
+      ],
+      "year": 2011
+    },
+    {
+      "id": "the-black-swan",
+      "title": "The Black Swan",
+      "author": "Nassim Nicholas Taleb",
+      "genre": "Non-Fiction",
+      "themes": [
+        "Risk",
+        "Uncertainty",
+        "Probability"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/081297381X.01._SCLZZZZZZZ_.jpg",
+      "description": "Taleb on the events that drive history: unpredictable, massive in impact, and explained away afterward as if they had been foreseeable all along.",
+      "amazonUrl": "https://www.amazon.com/dp/081297381X",
+      "list": "new-arrival",
+      "mentalModels": [
+        "narrative-fallacy"
+      ],
+      "year": 2010
+    },
+    {
+      "id": "the-fifth-risk",
+      "title": "The Fifth Risk",
+      "author": "Michael Lewis",
+      "genre": "Non-Fiction",
+      "themes": [
+        "Government",
+        "Risk",
+        "Public Service"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0393357457.01._SCLZZZZZZZ_.jpg",
+      "description": "Lewis tours the federal departments most Americans never think about, and the slow, invisible risk that accumulates when the people who run them stop being taken seriously.",
+      "amazonUrl": "https://www.amazon.com/dp/0393357457",
+      "list": "new-arrival",
+      "mentalModels": [
+        "second-order-thinking"
+      ],
+      "year": 2019
+    },
+    {
+      "id": "recoding-america",
+      "title": "Recoding America",
+      "author": "Jennifer Pahlka",
+      "genre": "Non-Fiction",
+      "themes": [
+        "Government",
+        "Technology",
+        "Public Service"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/1250266777.01._SCLZZZZZZZ_.jpg",
+      "description": "The founder of Code for America on why government fails in the digital age: policy written without delivery in mind, and how to rebuild the state's capacity to implement.",
+      "amazonUrl": "https://www.amazon.com/dp/1250266777",
+      "list": "new-arrival",
+      "mentalModels": [
+        "first-principles"
+      ],
+      "year": 2023
+    },
+    {
+      "id": "prisoners-of-geography",
+      "title": "Prisoners of Geography",
+      "author": "Tim Marshall",
+      "genre": "Non-Fiction",
+      "themes": [
+        "Geopolitics",
+        "Geography",
+        "Maps"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/1501121472.01._SCLZZZZZZZ_.jpg",
+      "description": "Ten maps that explain world politics: how mountains, rivers, plains, and ports constrain what nations can do, whatever their leaders intend.",
+      "amazonUrl": "https://www.amazon.com/dp/1501121472",
+      "list": "new-arrival",
+      "mentalModels": [
+        "map-is-not-the-territory"
+      ],
+      "year": 2016
+    },
+    {
+      "id": "how-big-things-get-done",
+      "title": "How Big Things Get Done",
+      "author": "Bent Flyvbjerg & Dan Gardner",
+      "genre": "Business",
+      "themes": [
+        "Project Management",
+        "Planning",
+        "Decision-Making"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/1035018950.01._SCLZZZZZZZ_.jpg",
+      "description": "Flyvbjerg's database of 16,000 projects explains why big things run late and over budget — optimism, uniqueness bias, haste — and the discipline of thinking slow and acting fast.",
+      "amazonUrl": "https://www.amazon.com/dp/1035018950",
+      "list": "new-arrival",
+      "mentalModels": [
+        "system-1-system-2"
+      ],
+      "year": 2024
+    },
+    {
+      "id": "powered-by-projects",
+      "title": "Powered by Projects",
+      "author": "Antonio Nieto-Rodriguez",
+      "genre": "Business",
+      "themes": [
+        "Project Management",
+        "Leadership",
+        "Organizational Change"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/B0DS473YVV.01._SCLZZZZZZZ_.jpg",
+      "description": "Nieto-Rodriguez argues the project economy has already arrived: organizations now create value through projects, not operations, and leadership has to be rebuilt around that fact.",
+      "amazonUrl": "https://www.amazon.com/dp/B0DS473YVV",
+      "list": "new-arrival",
+      "mentalModels": [
+        "second-order-thinking"
+      ],
+      "year": 2026
+    },
+    {
+      "id": "team-of-teams",
+      "title": "Team of Teams",
+      "author": "Stanley McChrystal",
+      "genre": "Business",
+      "themes": [
+        "Leadership",
+        "Organizations",
+        "Adaptability"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/1591847486.01._SCLZZZZZZZ_.jpg",
+      "description": "McChrystal rebuilt a hierarchical task force into a network — shared consciousness, radical transparency, decentralized authority — to fight an enemy that already worked that way.",
+      "amazonUrl": "https://www.amazon.com/dp/1591847486",
+      "list": "new-arrival",
+      "mentalModels": [
+        "second-order-thinking"
+      ],
+      "year": 2015
+    },
+    {
+      "id": "inside-the-box",
+      "title": "Inside the Box",
+      "author": "Drew Boyd & Jacob Goldenberg",
+      "genre": "Business",
+      "themes": [
+        "Creativity",
+        "Innovation",
+        "Problem Solving"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/1451659296.01._SCLZZZZZZZ_.jpg",
+      "description": "Systematic Inventive Thinking: creativity as a discipline of working inside the box — subtract, multiply, divide, unify, and depend — rather than waiting for inspiration outside it.",
+      "amazonUrl": "https://www.amazon.com/dp/1451659296",
+      "list": "new-arrival",
+      "mentalModels": [
+        "first-principles"
+      ],
+      "year": 2014
+    },
+    {
+      "id": "think-wrong",
+      "title": "Think Wrong",
+      "author": "John Bielenberg, Mike Burn, Greg Galle & Elizabeth Evitts Dickinson",
+      "genre": "Business",
+      "themes": [
+        "Creativity",
+        "Innovation",
+        "Design Thinking"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0692693327.01._SCLZZZZZZZ_.jpg",
+      "description": "A field guide to conquering the status quo: six practices — be bold, get out, let go, make stuff, bet small, move fast — for producing solutions the usual thinking cannot reach.",
+      "amazonUrl": "https://www.amazon.com/dp/0692693327",
+      "list": "new-arrival",
+      "mentalModels": [
+        "inversion"
+      ],
+      "year": 2016
+    },
+    {
+      "id": "the-medici-effect",
+      "title": "The Medici Effect",
+      "author": "Frans Johansson",
+      "genre": "Business",
+      "themes": [
+        "Innovation",
+        "Intersections",
+        "Creativity"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/1422102823.01._SCLZZZZZZZ_.jpg",
+      "description": "Breakthrough ideas live at intersections — of fields, cultures, and industries — and Johansson shows how to put yourself where those collisions happen on purpose.",
+      "amazonUrl": "https://www.amazon.com/dp/1422102823",
+      "list": "new-arrival",
+      "mentalModels": [
+        "compounding"
+      ],
+      "year": 2006
+    },
+    {
+      "id": "being-logical",
+      "title": "Being Logical",
+      "author": "D. Q. McInerny",
+      "genre": "Philosophy",
+      "themes": [
+        "Logic",
+        "Critical Thinking",
+        "Argument"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0812971159.01._SCLZZZZZZZ_.jpg",
+      "description": "A short, lucid primer on thinking straight: preparing the mind for logic, building an argument from premises to conclusion, and spotting the fallacies that derail both.",
+      "amazonUrl": "https://www.amazon.com/dp/0812971159",
+      "list": "new-arrival",
+      "mentalModels": [
+        "first-principles"
+      ],
+      "year": 2005
+    },
+    {
+      "id": "the-art-of-asking-essential-questions",
+      "title": "The Art of Asking Essential Questions",
+      "author": "Linda Elder & Richard Paul",
+      "genre": "Philosophy",
+      "themes": [
+        "Critical Thinking",
+        "Socratic Method",
+        "Questions"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0944583164.01._SCLZZZZZZZ_.jpg",
+      "description": "Elder and Paul on the skill underneath all learning: asking analytic and evaluative questions that surface assumptions, test conclusions, and expose what a thinker does not yet know.",
+      "amazonUrl": "https://www.amazon.com/dp/0944583164",
+      "list": "new-arrival",
+      "mentalModels": [
+        "circle-of-competence"
+      ],
+      "year": 2019
+    },
+    {
+      "id": "how-to-read-paintings",
+      "title": "How to Read Paintings",
+      "author": "Liz Rideal",
+      "genre": "Non-Fiction",
+      "themes": [
+        "Art",
+        "Painting",
+        "Interpretation"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/191221783X.01._SCLZZZZZZZ_.jpg",
+      "description": "A crash course in reading Western painting: composition, medium, signs and symbols, worked through fifty artworks from da Vinci to Van Gogh.",
+      "amazonUrl": "https://www.amazon.com/dp/191221783X",
+      "list": "new-arrival",
+      "mentalModels": [
+        "map-is-not-the-territory"
+      ],
+      "year": 2018
+    },
+    {
+      "id": "how-to-live",
+      "title": "How to Live",
+      "author": "Sarah Bakewell",
+      "genre": "Philosophy",
+      "themes": [
+        "Biography",
+        "Essays",
+        "Self-Knowledge"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/1590514831.01._SCLZZZZZZZ_.jpg",
+      "description": "Montaigne's life told as one question — how to live — in twenty attempts at an answer: pay attention, read a lot, reflect, and keep a private room of one's own.",
+      "amazonUrl": "https://www.amazon.com/dp/1590514831",
+      "list": "new-arrival",
+      "mentalModels": [
+        "narrative-fallacy"
+      ],
+      "year": 2011
     }
   ],
   "products": [
