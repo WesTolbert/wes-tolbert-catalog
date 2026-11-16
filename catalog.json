@@ -745,7 +745,8 @@
       "amazonUrl": "https://www.amazon.com/dp/142218739X",
       "list": "new-arrival",
       "mentalModels": [
-        "opportunity-cost"
+        "opportunity-cost",
+        "the-niche"
       ],
       "year": 2013
     },
@@ -764,7 +765,9 @@
       "amazonUrl": "https://www.amazon.com/dp/0684841487",
       "list": "new-arrival",
       "mentalModels": [
-        "map-is-not-the-territory"
+        "map-is-not-the-territory",
+        "the-niche",
+        "red-queen-effect"
       ],
       "year": 1980
     },
@@ -783,7 +786,8 @@
       "amazonUrl": "https://www.amazon.com/dp/142219602X",
       "list": "new-arrival",
       "mentalModels": [
-        "inversion"
+        "inversion",
+        "red-queen-effect"
       ],
       "year": 1997
     },
@@ -859,7 +863,8 @@
       "amazonUrl": "https://www.amazon.com/dp/0140442103",
       "list": "new-arrival",
       "mentalModels": [
-        "opportunity-cost"
+        "opportunity-cost",
+        "the-lindy-effect"
       ],
       "year": 1969
     },
@@ -1013,7 +1018,8 @@
       "list": "new-arrival",
       "mentalModels": [
         "inversion",
-        "hormesis"
+        "hormesis",
+        "antifragility"
       ],
       "year": 2014
     },
@@ -1051,7 +1057,8 @@
       "amazonUrl": "https://www.amazon.com/dp/0679642609",
       "list": "new-arrival",
       "mentalModels": [
-        "circle-of-competence"
+        "circle-of-competence",
+        "the-lindy-effect"
       ],
       "year": 2002
     },
@@ -1205,7 +1212,8 @@
       "list": "new-arrival",
       "mentalModels": [
         "second-order-thinking",
-        "feedback-loops"
+        "feedback-loops",
+        "ecosystems"
       ],
       "year": 2008
     },
@@ -1225,7 +1233,8 @@
       "list": "new-arrival",
       "mentalModels": [
         "compounding",
-        "feedback-loops"
+        "feedback-loops",
+        "adaptation"
       ],
       "year": 2006
     },
@@ -1245,7 +1254,9 @@
       "list": "new-arrival",
       "mentalModels": [
         "map-is-not-the-territory",
-        "emergence"
+        "emergence",
+        "consilience",
+        "ecosystems"
       ],
       "year": 2011
     },
@@ -1264,7 +1275,9 @@
       "amazonUrl": "https://www.amazon.com/dp/081297381X",
       "list": "new-arrival",
       "mentalModels": [
-        "narrative-fallacy"
+        "narrative-fallacy",
+        "power-laws",
+        "antifragility"
       ],
       "year": 2010
     },
@@ -1321,7 +1334,8 @@
       "amazonUrl": "https://www.amazon.com/dp/1501121472",
       "list": "new-arrival",
       "mentalModels": [
-        "map-is-not-the-territory"
+        "map-is-not-the-territory",
+        "carrying-capacity"
       ],
       "year": 2016
     },
@@ -1381,7 +1395,8 @@
       "list": "new-arrival",
       "mentalModels": [
         "second-order-thinking",
-        "emergence"
+        "emergence",
+        "adaptation"
       ],
       "year": 2015
     },
@@ -1400,7 +1415,8 @@
       "amazonUrl": "https://www.amazon.com/dp/1451659296",
       "list": "new-arrival",
       "mentalModels": [
-        "first-principles"
+        "first-principles",
+        "the-adjacent-possible"
       ],
       "year": 2014
     },
@@ -1438,7 +1454,10 @@
       "amazonUrl": "https://www.amazon.com/dp/1422102823",
       "list": "new-arrival",
       "mentalModels": [
-        "compounding"
+        "compounding",
+        "the-adjacent-possible",
+        "exaptation",
+        "diversity-as-insurance"
       ],
       "year": 2006
     },
@@ -1533,7 +1552,9 @@
       "amazonUrl": "https://www.amazon.com/dp/0143127047",
       "list": "new-arrival",
       "mentalModels": [
-        "first-principles"
+        "first-principles",
+        "consilience",
+        "carrying-capacity"
       ],
       "year": 2015
     },
@@ -1590,7 +1611,8 @@
       "amazonUrl": "https://www.amazon.com/dp/0345806298",
       "list": "new-arrival",
       "mentalModels": [
-        "emergence"
+        "emergence",
+        "natural-selection"
       ],
       "year": 2016
     },
@@ -1705,7 +1727,8 @@
       "amazonUrl": "https://www.amazon.com/dp/0878301178",
       "list": "new-arrival",
       "mentalModels": [
-        "social-proof"
+        "social-proof",
+        "exaptation"
       ],
       "year": 1987
     },
@@ -1724,7 +1747,8 @@
       "amazonUrl": "https://www.amazon.com/dp/069114818X",
       "list": "new-arrival",
       "mentalModels": [
-        "compounding"
+        "compounding",
+        "natural-selection"
       ],
       "year": 2010
     },
@@ -1762,7 +1786,9 @@
       "amazonUrl": "https://www.amazon.com/dp/0857197681",
       "list": "new-arrival",
       "mentalModels": [
-        "compounding"
+        "compounding",
+        "power-laws",
+        "diversity-as-insurance"
       ],
       "year": 2020
     }
@@ -1939,6 +1965,84 @@
       "name": "Margin of Safety",
       "discipline": "Decision Making",
       "summary": "Build buffers before you need them: families, budgets, and projects break at the margin, not on the average day."
+    },
+    {
+      "id": "power-laws",
+      "name": "Power Laws",
+      "discipline": "Mathematics",
+      "summary": "Outcomes follow a steep curve, not a bell curve: a few causes drive most results, and the extremes outweigh the average."
+    },
+    {
+      "id": "the-adjacent-possible",
+      "name": "The Adjacent Possible",
+      "discipline": "Systems",
+      "summary": "What can be built next is bounded by what already exists — new ideas arrive one reachable step at a time, and each step opens the next set of doors."
+    },
+    {
+      "id": "exaptation",
+      "name": "Exaptation",
+      "discipline": "Biology",
+      "summary": "A trait built for one job gets recruited for another — feathers evolved for warmth become feathers for flight; the use you find is not always the use intended."
+    },
+    {
+      "id": "consilience",
+      "name": "Consilience",
+      "discipline": "Philosophy",
+      "summary": "When independent fields arrive at the same answer by different roads, confidence compounds — truth is what survives being approached from several directions."
+    },
+    {
+      "id": "the-lindy-effect",
+      "name": "The Lindy Effect",
+      "discipline": "Decision Making",
+      "summary": "What has already lasted a long time is likely to keep lasting — time is a filter: the durable outlives the fashionable, and age itself becomes evidence."
+    },
+    {
+      "id": "antifragility",
+      "name": "Antifragility",
+      "discipline": "Systems",
+      "summary": "Some systems don't merely survive stress — they improve from it. Where the fragile break and the robust endure, the antifragile treat volatility as information and grow."
+    },
+    {
+      "id": "natural-selection",
+      "name": "Natural Selection",
+      "discipline": "Biology",
+      "summary": "Variation, selection, time: what persists is not what is perfect but what fits its environment — change the environment and you change what survives in it."
+    },
+    {
+      "id": "adaptation",
+      "name": "Adaptation",
+      "discipline": "Biology",
+      "summary": "Living things reshape themselves to their niche — behavior follows environment far more reliably than it follows intention, in animals, children, and organizations alike."
+    },
+    {
+      "id": "ecosystems",
+      "name": "Ecosystems",
+      "discipline": "Biology",
+      "summary": "Nothing exists alone: outcomes emerge from webs of relationship, not isolated parts — pull one thread and the whole system moves."
+    },
+    {
+      "id": "the-niche",
+      "name": "The Niche",
+      "discipline": "Biology",
+      "summary": "Every species thrives by occupying a role that isn't already taken — head-on competition with a stronger incumbent is nature's most expensive strategy; differentiation is the cheapest."
+    },
+    {
+      "id": "carrying-capacity",
+      "name": "Carrying Capacity",
+      "discipline": "Biology",
+      "summary": "Every environment caps the growth it can support — populations, projects, and schedules that overshoot don't plateau, they crash."
+    },
+    {
+      "id": "red-queen-effect",
+      "name": "Red Queen Effect",
+      "discipline": "Biology",
+      "summary": "In a coevolving system you must keep adapting just to hold your place, because everything around you is adapting too — standing still is a decision to fall behind."
+    },
+    {
+      "id": "diversity-as-insurance",
+      "name": "Diversity as Insurance",
+      "discipline": "Biology",
+      "summary": "Monocultures are efficient and fragile; diverse systems survive shocks that wipe out uniform ones — variation is the premium you pay for resilience."
     }
   ]
 }
