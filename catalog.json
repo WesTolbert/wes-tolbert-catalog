@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T23:30:35Z",
+  "updatedAt": "2026-11-16T05:55:00Z",
   "categories": [
     {
       "id": "books",
@@ -553,7 +553,8 @@
       "amazonUrl": "https://www.amazon.com/dp/1610391845",
       "list": "new-arrival",
       "mentalModels": [
-        "second-order-thinking"
+        "second-order-thinking",
+        "incentives"
       ],
       "year": 2011
     },
@@ -591,7 +592,8 @@
       "amazonUrl": "https://www.amazon.com/dp/0008354677",
       "list": "new-arrival",
       "mentalModels": [
-        "system-1-system-2"
+        "system-1-system-2",
+        "social-proof"
       ],
       "year": 2021
     },
@@ -933,7 +935,8 @@
       "amazonUrl": "https://www.amazon.com/dp/0817936920",
       "list": "new-arrival",
       "mentalModels": [
-        "second-order-thinking"
+        "second-order-thinking",
+        "hormesis"
       ],
       "year": 1993
     },
@@ -1009,7 +1012,8 @@
       "amazonUrl": "https://www.amazon.com/dp/1591846358",
       "list": "new-arrival",
       "mentalModels": [
-        "inversion"
+        "inversion",
+        "hormesis"
       ],
       "year": 2014
     },
@@ -1161,7 +1165,8 @@
       "amazonUrl": "https://www.amazon.com/dp/1401925928",
       "list": "new-arrival",
       "mentalModels": [
-        "narrative-fallacy"
+        "narrative-fallacy",
+        "social-proof"
       ],
       "year": 2010
     },
@@ -1199,7 +1204,8 @@
       "amazonUrl": "https://www.amazon.com/dp/1603580557",
       "list": "new-arrival",
       "mentalModels": [
-        "second-order-thinking"
+        "second-order-thinking",
+        "feedback-loops"
       ],
       "year": 2008
     },
@@ -1218,7 +1224,8 @@
       "amazonUrl": "https://www.amazon.com/dp/0385517254",
       "list": "new-arrival",
       "mentalModels": [
-        "compounding"
+        "compounding",
+        "feedback-loops"
       ],
       "year": 2006
     },
@@ -1237,7 +1244,8 @@
       "amazonUrl": "https://www.amazon.com/dp/0199798109",
       "list": "new-arrival",
       "mentalModels": [
-        "map-is-not-the-territory"
+        "map-is-not-the-territory",
+        "emergence"
       ],
       "year": 2011
     },
@@ -1332,7 +1340,9 @@
       "amazonUrl": "https://www.amazon.com/dp/1035018950",
       "list": "new-arrival",
       "mentalModels": [
-        "system-1-system-2"
+        "system-1-system-2",
+        "incentives",
+        "margin-of-safety"
       ],
       "year": 2024
     },
@@ -1370,7 +1380,8 @@
       "amazonUrl": "https://www.amazon.com/dp/1591847486",
       "list": "new-arrival",
       "mentalModels": [
-        "second-order-thinking"
+        "second-order-thinking",
+        "emergence"
       ],
       "year": 2015
     },
@@ -1532,6 +1543,15 @@
       "referral": true
     },
     {
+      "id": "ventureone",
+      "name": "Capital One VentureOne",
+      "category": "finance",
+      "description": "Capital One's travel rewards card with no annual fee — earn miles on every purchase and redeem them to cover travel.",
+      "externalUrl": "https://i.capitalone.com/JwKJuh6n2",
+      "ctaLabel": "Apply now",
+      "referral": true
+    },
+    {
       "id": "hopper",
       "name": "Hopper",
       "category": "travel",
@@ -1614,6 +1634,42 @@
       "name": "Narrative Fallacy",
       "discipline": "Psychology",
       "summary": "We invent tidy stories to explain messy, random events after the fact."
+    },
+    {
+      "id": "incentives",
+      "name": "Incentives",
+      "discipline": "Behavioral Economics",
+      "summary": "Behavior follows what is actually rewarded, not what is preached — find the incentive and you can predict the outcome."
+    },
+    {
+      "id": "feedback-loops",
+      "name": "Feedback Loops",
+      "discipline": "Systems",
+      "summary": "A system's outputs circle back as its inputs: reinforcing loops compound change, balancing loops hold things steady."
+    },
+    {
+      "id": "emergence",
+      "name": "Emergence",
+      "discipline": "Systems",
+      "summary": "Complex order arises from simple rules repeated at scale — no single part plans the whole."
+    },
+    {
+      "id": "social-proof",
+      "name": "Social Proof",
+      "discipline": "Psychology",
+      "summary": "We copy what the people around us visibly do — imitation is the mind's shortcut for deciding what is normal, safe, and worth wanting."
+    },
+    {
+      "id": "hormesis",
+      "name": "Hormesis",
+      "discipline": "Biology",
+      "summary": "A measured dose of stress makes a system stronger — muscle, bone, immunity, and character grow under load and weaken under total shelter."
+    },
+    {
+      "id": "margin-of-safety",
+      "name": "Margin of Safety",
+      "discipline": "Decision Making",
+      "summary": "Build buffers before you need them: families, budgets, and projects break at the margin, not on the average day."
     }
   ]
 }
