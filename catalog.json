@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T06:56:08Z",
+  "updatedAt": "2026-11-20",
   "categories": [
     {
       "id": "books",
@@ -1791,6 +1791,46 @@
         "diversity-as-insurance"
       ],
       "year": 2020
+    },
+    {
+      "id": "profit-first",
+      "title": "Profit First",
+      "author": "Mike Michalowicz",
+      "genre": "Business",
+      "themes": [
+        "Entrepreneurship",
+        "Cash Flow",
+        "Small Business"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/073521414X.01._SCLZZZZZZZ_.jpg",
+      "description": "Michalowicz flips the oldest formula in business: instead of Sales − Expenses = Profit, take the profit first and let expenses fit what remains. A cash-management system of separate accounts that makes a company profitable by design rather than by hope.",
+      "amazonUrl": "https://www.amazon.com/dp/073521414X",
+      "list": "new-arrival",
+      "mentalModels": [
+        "incentives",
+        "margin-of-safety"
+      ],
+      "year": 2017
+    },
+    {
+      "id": "unshakeable",
+      "title": "Unshakeable",
+      "author": "Tony Robbins",
+      "genre": "Business",
+      "themes": [
+        "Personal Finance",
+        "Investing",
+        "Wealth"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/1501164589.01._SCLZZZZZZZ_.jpg",
+      "description": "Robbins' financial freedom playbook, distilled from interviews with fifty of the world's leading investors: keep fees low, prepare for the correction instead of fearing it, diversify, and let compounding do the heavy lifting. A steady hand for turbulent markets.",
+      "amazonUrl": "https://www.amazon.com/dp/1501164589",
+      "list": "new-arrival",
+      "mentalModels": [
+        "compounding",
+        "loss-aversion"
+      ],
+      "year": 2017
     }
   ],
   "products": [
