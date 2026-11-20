@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-20T00:30:40Z",
+ "updatedAt": "2026-11-20T06:51:59Z",
  "categories": [
   {
    "id": "books",
@@ -1933,6 +1933,21 @@
     "Power reserve indicator; luminous hands and markers",
     "48mm stainless steel case and bracelet; anti-reflective crystal",
     "Water resistant to 200 meters"
+   ]
+  },
+  {
+   "id": "google-workspace",
+   "name": "Google Workspace",
+   "category": "services",
+   "alsoIn": [],
+   "description": "The workspace that accompanies this site. Google Workspace gives a business email on its own domain — info@westolbert.com — with Drive storage, Docs, Sheets, Calendar, and Meet in one account. It is the system this site's documents, forms, and files run on.",
+   "externalUrl": "https://sharegoogleworkspace.advocate.impact.com/mzZAdrFU",
+   "ctaLabel": "Get Google Workspace",
+   "referral": true,
+   "points": [
+    "Business email on your own domain",
+    "Drive, Docs, Sheets, Calendar and Meet in one account",
+    "The workspace that accompanies westolbert.com"
    ]
   }
  ],
