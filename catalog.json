@@ -1831,6 +1831,26 @@
         "loss-aversion"
       ],
       "year": 2017
+    },
+    {
+      "id": "alchemy",
+      "title": "Alchemy",
+      "author": "Rory Sutherland",
+      "genre": "Business",
+      "themes": [
+        "Marketing",
+        "Behavior",
+        "Creativity"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/006238841X.01._SCLZZZZZZZ_.jpg",
+      "description": "Ogilvy's vice chairman argues that the best ideas don't make rational sense: people buy on perception, context, and signal, not logic. Thirty years of advertising campaigns distilled into a case for 'psycho-logic' — the magic that spreadsheets can't see, in brands, business, and life.",
+      "amazonUrl": "https://www.amazon.com/dp/006238841X",
+      "list": "new-arrival",
+      "mentalModels": [
+        "system-1-system-2",
+        "social-proof"
+      ],
+      "year": 2019
     }
   ],
   "products": [
