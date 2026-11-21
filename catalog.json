@@ -2101,6 +2101,54 @@
       "summary": "Never attribute to malice that which is adequately explained by stupidity."
     },
     {
+      "id": "einsteins-razor",
+      "name": "Einstein's Razor",
+      "discipline": "Philosophy",
+      "summary": "Make everything as simple as possible, but not simpler — cut whatever a thing can do without, and nothing it can't."
+    },
+    {
+      "id": "feynmans-razor",
+      "name": "Feynman's Razor",
+      "discipline": "Epistemology",
+      "summary": "If you can't explain it simply, you don't understand it yet."
+    },
+    {
+      "id": "hitchenss-razor",
+      "name": "Hitchens's Razor",
+      "discipline": "Philosophy",
+      "summary": "What can be asserted without evidence can be dismissed without evidence."
+    },
+    {
+      "id": "poppers-razor",
+      "name": "Popper's Razor",
+      "discipline": "Epistemology",
+      "summary": "A claim that no test could ever prove wrong is not knowledge — demand that claims be falsifiable."
+    },
+    {
+      "id": "humes-razor",
+      "name": "Hume's Razor",
+      "discipline": "Philosophy",
+      "summary": "The cause claimed must be proportionate to the effect — a small cause cannot carry a miraculous result."
+    },
+    {
+      "id": "alders-razor",
+      "name": "Alder's Razor",
+      "discipline": "Philosophy",
+      "summary": "If a question cannot be settled by experiment or observation, it is not worth debating."
+    },
+    {
+      "id": "grices-razor",
+      "name": "Grice's Razor",
+      "discipline": "Psychology",
+      "summary": "Interpret what people mean, not just what they say — most misunderstanding is literalism."
+    },
+    {
+      "id": "rands-razor",
+      "name": "Rand's Razor",
+      "discipline": "Philosophy",
+      "summary": "Never conflate two distinct things — keep concepts separate and call each by its own name."
+    },
+    {
       "id": "narrative-fallacy",
       "name": "Narrative Fallacy",
       "discipline": "Psychology",
