@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-22T23:21:50Z",
   "categories": [
     {
       "id": "books",
@@ -87,6 +87,10 @@
     {
       "id": "reviews",
       "label": "Reviews"
+    },
+    {
+      "id": "fathers-day",
+      "label": "Father's Day Gifts"
     }
   ],
   "listOptions": [
