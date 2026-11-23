@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T00:40:22Z",
+  "updatedAt": "2026-11-23T00:57:24Z",
   "categories": [
     {
       "id": "books",
@@ -1999,6 +1999,10 @@
         "Power reserve indicator; luminous hands and markers",
         "48mm stainless steel case and bracelet; anti-reflective crystal",
         "Water resistant to 200 meters"
+      ],
+      "tags": [
+        "Pilot Watch",
+        "Chronograph"
       ]
     },
     {
@@ -2089,6 +2093,9 @@
         "Anti-reflective sapphire crystal; fine brown leather strap",
         "Proprietary eight-hand chronograph with 1/1000-second accuracy and calendar function",
         "44.5mm case — large and substantial; best on bigger wrists"
+      ],
+      "tags": [
+        "Chronograph"
       ]
     },
     {
