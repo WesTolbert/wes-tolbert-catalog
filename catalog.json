@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T07:00:46Z",
+  "updatedAt": "2026-11-24T07:12:42Z",
   "categories": [
     {
       "id": "books",
@@ -2464,6 +2464,48 @@
       "name": "Hegemonic Stability Theory",
       "discipline": "Geopolitics",
       "summary": "Kindleberger and Gilpin: a stable, open world order needs one power willing and able to underwrite it — supplying security, open markets, and a trusted currency, as America has since 1945; when the hegemon tires, the order frays."
+    },
+    {
+      "id": "systems-thinking",
+      "name": "Systems Thinking",
+      "discipline": "Systems Thinking",
+      "summary": "See the connections and the whole, not the isolated event: outcomes are produced by structure — loops, accumulations, delays — so don't just fix the problem; understand the system that creates it."
+    },
+    {
+      "id": "iceberg-model",
+      "name": "Iceberg Model",
+      "discipline": "Systems Thinking",
+      "summary": "The event is only the tip: beneath it lie patterns of behavior, beneath those the structures producing them, and at the bottom the mental models holding the structure in place — real change works at the deepest level you can reach."
+    },
+    {
+      "id": "causal-loop-diagrams",
+      "name": "Causal Loop Diagrams",
+      "discipline": "Systems Thinking",
+      "summary": "Forrester's way of drawing a system: variables joined by arrows marked with their polarity, so the reinforcing and balancing loops driving behavior can be read straight off the structure instead of guessed at from events."
+    },
+    {
+      "id": "stocks-and-flows",
+      "name": "Stocks & Flows",
+      "discipline": "Systems Thinking",
+      "summary": "Meadows' bathtub: stocks are the accumulations — cash, trust, inventory, skill — and flows are the rates that fill or drain them; because a stock can only change as fast as its flows allow, systems carry inertia and surprise anyone watching the surface alone."
+    },
+    {
+      "id": "delays-and-unintended-consequences",
+      "name": "Delays & Unintended Consequences",
+      "discipline": "Systems Thinking",
+      "summary": "Between an action and its effect sits a gap, and in that gap cause hides from effect: corrections overshoot, policies oscillate, and well-aimed interventions land somewhere nobody intended — the longer the delay, the worse the steering."
+    },
+    {
+      "id": "systems-archetypes",
+      "name": "Systems Archetypes",
+      "discipline": "Systems Thinking",
+      "summary": "Senge's recurring cast: a handful of structures — fixes that fail, burdens shifted, commons tragically shared — generate the same behavior wherever they appear, in companies, families, and nations alike; name the archetype and you can predict how the story ends."
+    },
+    {
+      "id": "leverage-points",
+      "name": "Leverage Points",
+      "discipline": "Systems Thinking",
+      "summary": "Meadows' hierarchy of intervention: most effort is spent on the weakest places — parameters and numbers — while the strongest, a system's goals and the paradigm it runs on, go untouched; a small push at the right depth moves what force at the surface cannot."
     }
   ]
 }
