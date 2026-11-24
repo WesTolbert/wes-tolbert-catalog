@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T00:57:24Z",
+  "updatedAt": "2026-11-24T07:00:46Z",
   "categories": [
     {
       "id": "books",
@@ -2404,6 +2404,66 @@
       "name": "Diversity as Insurance",
       "discipline": "Biology",
       "summary": "Monocultures are efficient and fragile; diverse systems survive shocks that wipe out uniform ones — variation is the premium you pay for resilience."
+    },
+    {
+      "id": "thucydides-trap",
+      "name": "Thucydides Trap",
+      "discipline": "Geopolitics",
+      "summary": "When a rising power threatens to displace a ruling one, fear on both sides makes war far more likely — Graham Allison named it for Athens' rise terrifying Sparta; it is read today as China rising against American dominance."
+    },
+    {
+      "id": "power-transition-theory",
+      "name": "Power Transition Theory",
+      "discipline": "Geopolitics",
+      "summary": "Organski's rule: conflict becomes likeliest not while a challenger is weak, but as it draws level with the dominant power — Germany closing on Britain before the First World War, China closing on the American-led order now."
+    },
+    {
+      "id": "offensive-realism",
+      "name": "Offensive Realism",
+      "discipline": "Geopolitics",
+      "summary": "Mearsheimer's hard logic: since no state can ever be certain of another's intentions, great powers maximize their power and seek dominance over their own region — survival leaves no room for a satisfied power."
+    },
+    {
+      "id": "balance-of-power",
+      "name": "Balance of Power",
+      "discipline": "Geopolitics",
+      "summary": "States ally and arm so that no single power can dominate the rest — the ordering principle Morgenthau described, visible in NATO against the Soviets and the Quad watching China in the Indo-Pacific."
+    },
+    {
+      "id": "security-dilemma",
+      "name": "Security Dilemma",
+      "discipline": "Geopolitics",
+      "summary": "One state's defense is another's threat: Herz and Jervis showed how purely defensive moves — a border road, a missile shield — read as preparation for attack, feeding the arms race neither side wanted; India and China on their border live it."
+    },
+    {
+      "id": "prisoners-dilemma",
+      "name": "Prisoner's Dilemma",
+      "discipline": "Game Theory",
+      "summary": "Two players, each choosing rationally for himself, land on an outcome worse for both than cooperation would have given — the puzzle Flood, Dresher, and Tucker posed, and the engine under every arms race: neither side can afford to disarm alone."
+    },
+    {
+      "id": "democratic-peace-theory",
+      "name": "Democratic Peace Theory",
+      "discipline": "Geopolitics",
+      "summary": "Kant's wager, Doyle's evidence: mature democracies almost never make war on each other — whatever their quarrels, shared institutions and norms hold the peace among them, as among the Western democracies since 1945."
+    },
+    {
+      "id": "offshore-balancing",
+      "name": "Offshore Balancing",
+      "discipline": "Geopolitics",
+      "summary": "Mearsheimer and Walt's strategy of restraint: a great power stays over the horizon and lets regional allies carry the burden of checking a would-be hegemon, stepping in only if they fail — America's posture across the Indo-Pacific."
+    },
+    {
+      "id": "dependency-theory",
+      "name": "Dependency Theory",
+      "discipline": "Geopolitics",
+      "summary": "Frank and Amin's charge: the world economy is arranged so wealth flows from periphery to core — poorer nations export raw materials and import finished goods, and the very terms of trade keep them dependent."
+    },
+    {
+      "id": "hegemonic-stability-theory",
+      "name": "Hegemonic Stability Theory",
+      "discipline": "Geopolitics",
+      "summary": "Kindleberger and Gilpin: a stable, open world order needs one power willing and able to underwrite it — supplying security, open markets, and a trusted currency, as America has since 1945; when the hegemon tires, the order frays."
     }
   ]
 }
