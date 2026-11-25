@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T11:57:14Z",
+  "updatedAt": "2026-11-25T12:19:26Z",
   "categories": [
     {
       "id": "books",
@@ -129,7 +129,11 @@
       ],
       "price": 27,
       "rating": 4.3,
-      "year": 2018
+      "year": 2018,
+      "modelTakeaway": {
+        "model": "compounding",
+        "line": "Habits compound like interest. A one-percent improvement repeated daily is not small — it is a different life, on a delay."
+      }
     },
     {
       "id": "project-hail-mary",
@@ -198,7 +202,12 @@
       "price": 22,
       "rating": 4.5,
       "year": 2011,
-      "list": "trending"
+      "list": "trending",
+      "modelTakeaway": {
+        "model": "narrative-fallacy",
+        "line": "Money, nations, and companies run on shared stories. Know which story you are inside of, and who profits from you believing it."
+      },
+      "bestFor": "The big history of how we took over"
     },
     {
       "id": "the-name-of-the-wind",
@@ -242,7 +251,8 @@
       "price": 18,
       "rating": 4.4,
       "year": 2018,
-      "list": "trending"
+      "list": "trending",
+      "bestFor": "A memoir of breaking away to learn"
     },
     {
       "id": "gone-girl",
@@ -311,7 +321,11 @@
       "price": 17,
       "rating": 4.2,
       "year": 2011,
-      "list": "new-arrival"
+      "list": "new-arrival",
+      "modelTakeaway": {
+        "model": "system-1-system-2",
+        "line": "Your first answer is a draft, not a verdict. Slow down long enough for the second system to check the first one's work."
+      }
     },
     {
       "id": "the-long-field",
@@ -331,7 +345,8 @@
       "cover": "https://images-na.ssl-images-amazon.com/images/P/1956763678.01._SCLZZZZZZZ_.jpg",
       "mentalModels": [
         "opportunity-cost"
-      ]
+      ],
+      "bestFor": "A slow memoir of place and belonging"
     },
     {
       "id": "cloud-cuckoo-land",
@@ -353,7 +368,8 @@
       "cover": "https://images-na.ssl-images-amazon.com/images/P/1982168447.01._SCLZZZZZZZ_.jpg",
       "mentalModels": [
         "inversion"
-      ]
+      ],
+      "bestFor": "A novel about the books that save us"
     },
     {
       "id": "the-anthropocene-reviewed",
@@ -374,7 +390,8 @@
       "cover": "https://images-na.ssl-images-amazon.com/images/P/0525556532.01._SCLZZZZZZZ_.jpg",
       "mentalModels": [
         "narrative-fallacy"
-      ]
+      ],
+      "bestFor": "Short essays that rate the world, tenderly"
     },
     {
       "id": "a-line-made-by-walking",
@@ -417,7 +434,8 @@
       "cover": "https://images-na.ssl-images-amazon.com/images/P/039335668X.01._SCLZZZZZZZ_.jpg",
       "mentalModels": [
         "compounding"
-      ]
+      ],
+      "bestFor": "Fiction that thinks like a forest"
     },
     {
       "id": "ways-of-seeing",
@@ -438,7 +456,8 @@
       "rating": 4.7,
       "year": 1972,
       "list": "staff-pick",
-      "cover": "https://images-na.ssl-images-amazon.com/images/P/0140135154.01._SCLZZZZZZZ_.jpg"
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0140135154.01._SCLZZZZZZZ_.jpg",
+      "bestFor": "Learning to actually see images"
     },
     {
       "id": "dune",
@@ -459,7 +478,8 @@
       "cover": "https://images-na.ssl-images-amazon.com/images/P/0441013597.01._SCLZZZZZZZ_.jpg",
       "mentalModels": [
         "second-order-thinking"
-      ]
+      ],
+      "bestFor": "The science-fiction epic everything cites"
     },
     {
       "id": "the-design-of-everyday-things",
@@ -480,7 +500,12 @@
       "cover": "https://images-na.ssl-images-amazon.com/images/P/0465050654.01._SCLZZZZZZZ_.jpg",
       "mentalModels": [
         "first-principles"
-      ]
+      ],
+      "modelTakeaway": {
+        "model": "first-principles",
+        "line": "When you push a door that should be pulled, that is not your failure — it is the design's. Blame the affordance, then fix the system."
+      },
+      "bestFor": "Anyone who has ever pushed a pull door"
     },
     {
       "id": "the-law-of-the-sublime",
@@ -560,7 +585,11 @@
         "second-order-thinking",
         "incentives"
       ],
-      "year": 2011
+      "year": 2011,
+      "modelTakeaway": {
+        "model": "incentives",
+        "line": "Leaders do what keeps them in power, not what their speeches say. Read the incentives and the behavior explains itself."
+      }
     },
     {
       "id": "the-denial-of-death",
@@ -713,7 +742,11 @@
       "mentalModels": [
         "first-principles"
       ],
-      "year": 2011
+      "year": 2011,
+      "modelTakeaway": {
+        "model": "first-principles",
+        "line": "Strategy starts with diagnosis: name the obstacle honestly. Most strategy fails because it skips the hard part."
+      }
     },
     {
       "id": "the-strategy-paradox",
@@ -1025,7 +1058,11 @@
         "hormesis",
         "antifragility"
       ],
-      "year": 2014
+      "year": 2014,
+      "modelTakeaway": {
+        "model": "inversion",
+        "line": "The obstacle is not in the way; it is the way. What blocks the path, handled well, becomes the path."
+      }
     },
     {
       "id": "the-daily-stoic",
@@ -1064,7 +1101,11 @@
         "circle-of-competence",
         "the-lindy-effect"
       ],
-      "year": 2002
+      "year": 2002,
+      "modelTakeaway": {
+        "model": "circle-of-competence",
+        "line": "Rule your own mind first. Marcus Aurelius keeps returning to the one territory fully in your control: your judgments."
+      }
     },
     {
       "id": "the-samson-syndrome",
@@ -1219,7 +1260,11 @@
         "feedback-loops",
         "ecosystems"
       ],
-      "year": 2008
+      "year": 2008,
+      "modelTakeaway": {
+        "model": "feedback-loops",
+        "line": "Stop pushing on events and look for the loop. Behavior you keep seeing is a structure producing it, not a person failing."
+      }
     },
     {
       "id": "the-fifth-discipline",
@@ -1240,7 +1285,11 @@
         "feedback-loops",
         "adaptation"
       ],
-      "year": 2006
+      "year": 2006,
+      "modelTakeaway": {
+        "model": "adaptation",
+        "line": "Organizations learn at the speed they can change their minds. Build the reflection in, or the market teaches it harder."
+      }
     },
     {
       "id": "complexity-a-guided-tour",
@@ -1283,7 +1332,11 @@
         "power-laws",
         "antifragility"
       ],
-      "year": 2010
+      "year": 2010,
+      "modelTakeaway": {
+        "model": "narrative-fallacy",
+        "line": "We explain the past with stories, then trust the stories to predict. This book teaches you to distrust the explanation."
+      }
     },
     {
       "id": "the-fifth-risk",
@@ -1362,7 +1415,11 @@
         "incentives",
         "margin-of-safety"
       ],
-      "year": 2024
+      "year": 2024,
+      "modelTakeaway": {
+        "model": "margin-of-safety",
+        "line": "Plan against the reference class, not your optimism. Big things finish when the budget and the schedule assume the world pushes back."
+      }
     },
     {
       "id": "powered-by-projects",
@@ -1402,7 +1459,11 @@
         "emergence",
         "adaptation"
       ],
-      "year": 2015
+      "year": 2015,
+      "modelTakeaway": {
+        "model": "emergence",
+        "line": "In a complex fight, the plan matters less than the network. Shared awareness plus trust lets the edge decide."
+      }
     },
     {
       "id": "inside-the-box",
@@ -1794,7 +1855,11 @@
         "power-laws",
         "diversity-as-insurance"
       ],
-      "year": 2020
+      "year": 2020,
+      "modelTakeaway": {
+        "model": "compounding",
+        "line": "Compounding needs time more than brilliance. The largest returns in this book belong to people who simply stayed in the game."
+      }
     },
     {
       "id": "profit-first",
@@ -1814,7 +1879,11 @@
         "incentives",
         "margin-of-safety"
       ],
-      "year": 2017
+      "year": 2017,
+      "modelTakeaway": {
+        "model": "incentives",
+        "line": "Pay yourself first by design, not by discipline. Left alone, expenses grow to consume the income; this system starves them on purpose."
+      }
     },
     {
       "id": "unshakeable",
@@ -1854,7 +1923,11 @@
         "system-1-system-2",
         "social-proof"
       ],
-      "year": 2019
+      "year": 2019,
+      "modelTakeaway": {
+        "model": "social-proof",
+        "line": "Facts tell; feelings sell. Sutherland's case is that the irrational route is often the shortest one to a yes."
+      }
     },
     {
       "id": "the-great-mental-models-volume-1",
@@ -1877,7 +1950,12 @@
         "second-order-thinking",
         "map-is-not-the-territory"
       ],
-      "year": 2019
+      "year": 2019,
+      "modelTakeaway": {
+        "model": "inversion",
+        "line": "Invert the problem. Ask what would guarantee a bad outcome, then refuse to do those things — most good decisions start there."
+      },
+      "bestFor": "Starting the latticework, volume one"
     },
     {
       "id": "the-great-mental-models-volume-2",
@@ -1900,7 +1978,12 @@
         "emergence",
         "the-niche"
       ],
-      "year": 2019
+      "year": 2019,
+      "modelTakeaway": {
+        "model": "natural-selection",
+        "line": "Ideas, habits, and businesses are selected by their environment. Change the environment and you change what survives."
+      },
+      "bestFor": "Models from the hard sciences"
     },
     {
       "id": "the-great-mental-models-volume-3",
@@ -1923,7 +2006,12 @@
         "power-laws",
         "margin-of-safety"
       ],
-      "year": 2021
+      "year": 2021,
+      "modelTakeaway": {
+        "model": "margin-of-safety",
+        "line": "Build in more room than the plan requires. The future does not grade on effort; it grades on whether you were still standing."
+      },
+      "bestFor": "Systems and mathematics, made usable"
     },
     {
       "id": "super-thinking",
@@ -1945,7 +2033,12 @@
         "second-order-thinking",
         "social-proof"
       ],
-      "year": 2019
+      "year": 2019,
+      "modelTakeaway": {
+        "model": "incentives",
+        "line": "Follow the incentives and you can predict the room. People rarely act against what they are rewarded for."
+      },
+      "bestFor": "A lifetime reference of named models"
     },
     {
       "id": "poor-charlies-almanack",
@@ -1967,7 +2060,12 @@
         "circle-of-competence",
         "compounding"
       ],
-      "year": 2005
+      "year": 2005,
+      "modelTakeaway": {
+        "model": "inversion",
+        "line": "Invert, always invert. Munger's route to a good life is mostly a list of ways to ruin one, carefully avoided."
+      },
+      "bestFor": "Munger's wit and wisdom, collected"
     },
     {
       "id": "seeking-wisdom",
@@ -1989,7 +2087,12 @@
         "social-proof",
         "circle-of-competence"
       ],
-      "year": 2003
+      "year": 2003,
+      "modelTakeaway": {
+        "model": "circle-of-competence",
+        "line": "Know the fence line of what you understand. Inside it, act with confidence; outside it, slow down and ask better questions."
+      },
+      "bestFor": "From Darwin to Munger, the misjudgment tour"
     },
     {
       "id": "antifragile",
@@ -2011,7 +2114,12 @@
         "hormesis",
         "second-order-thinking"
       ],
-      "year": 2012
+      "year": 2012,
+      "modelTakeaway": {
+        "model": "antifragility",
+        "line": "Do not settle for surviving the shock. Arrange your work so disorder makes it stronger — downside small, upside uncapped."
+      },
+      "bestFor": "Gaining from disorder instead of breaking"
     },
     {
       "id": "the-millionaire-next-door",
@@ -2031,7 +2139,12 @@
         "compounding",
         "opportunity-cost"
       ],
-      "year": 1996
+      "year": 1996,
+      "modelTakeaway": {
+        "model": "compounding",
+        "line": "Wealth here is not earned loudly; it accumulates quietly. Time plus a savings rate beats income plus applause."
+      },
+      "bestFor": "How the wealthy actually live"
     },
     {
       "id": "your-money-or-your-life",
@@ -2051,7 +2164,12 @@
         "compounding",
         "opportunity-cost"
       ],
-      "year": 1992
+      "year": 1992,
+      "modelTakeaway": {
+        "model": "opportunity-cost",
+        "line": "Every dollar is hours of your life traded away. Spend it like time, because that is what it cost."
+      },
+      "bestFor": "Trading hours for dollars, deliberately"
     }
   ],
   "products": [
