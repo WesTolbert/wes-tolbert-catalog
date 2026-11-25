@@ -2170,6 +2170,31 @@
         "line": "Every dollar is hours of your life traded away. Spend it like time, because that is what it cost."
       },
       "bestFor": "Trading hours for dollars, deliberately"
+    },
+    {
+      "id": "the-science-of-getting-rich",
+      "title": "The Science of Getting Rich",
+      "author": "Wallace D. Wattles",
+      "genre": "Business",
+      "themes": [
+        "Personal Finance",
+        "Wealth",
+        "Mindset"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/1585426016.01._SCLZZZZZZZ_.jpg",
+      "description": "The 1910 classic behind a century of prosperity teaching — and the book The Secret was built on. Wattles argues there is a science to getting rich: hold the picture of what you want, act in the Certain Way, and never compete for what another holds, because supply is without limits.",
+      "amazonUrl": "https://www.amazon.com/dp/1585426016",
+      "list": "new-arrival",
+      "mentalModels": [
+        "first-principles",
+        "feedback-loops"
+      ],
+      "year": 1910,
+      "modelTakeaway": {
+        "model": "first-principles",
+        "line": "Wattles builds everything on one axiom: a thought held with purpose, and acted on in a certain way, produces the thing imaged. Start from the principle, not the competition."
+      },
+      "bestFor": "Getting rich as a science, not a scramble"
     }
   ],
   "products": [
