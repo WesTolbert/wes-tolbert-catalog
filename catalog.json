@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T02:04:36Z",
+  "updatedAt": "2026-11-25T11:57:14Z",
   "categories": [
     {
       "id": "books",
@@ -1855,6 +1855,203 @@
         "social-proof"
       ],
       "year": 2019
+    },
+    {
+      "id": "the-great-mental-models-volume-1",
+      "title": "The Great Mental Models, Volume 1",
+      "author": "Shane Parrish and Rhiannon Beaubien",
+      "genre": "Non-Fiction",
+      "themes": [
+        "Mental Models",
+        "Decision Making",
+        "Critical Thinking"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0593719972.01._SCLZZZZZZZ_.jpg",
+      "description": "General Thinking Concepts. The first volume of the Farnam Street series: nine all-purpose thinking tools — first principles, inversion, the map is not the territory, the circle of competence — for clearer decisions in any field.",
+      "amazonUrl": "https://www.amazon.com/dp/0593719972",
+      "list": "new-arrival",
+      "mentalModels": [
+        "first-principles",
+        "circle-of-competence",
+        "inversion",
+        "second-order-thinking",
+        "map-is-not-the-territory"
+      ],
+      "year": 2019
+    },
+    {
+      "id": "the-great-mental-models-volume-2",
+      "title": "The Great Mental Models, Volume 2",
+      "author": "Shane Parrish and Rhiannon Beaubien",
+      "genre": "Non-Fiction",
+      "themes": [
+        "Mental Models",
+        "Science",
+        "Evolution"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0593719980.01._SCLZZZZZZZ_.jpg",
+      "description": "Physics, Chemistry, and Biology. The second volume turns to the hard sciences: over twenty models — leverage, catalysts, natural selection, ecosystems — translated into everyday reasoning.",
+      "amazonUrl": "https://www.amazon.com/dp/0593719980",
+      "list": "new-arrival",
+      "mentalModels": [
+        "natural-selection",
+        "adaptation",
+        "ecosystems",
+        "emergence",
+        "the-niche"
+      ],
+      "year": 2019
+    },
+    {
+      "id": "the-great-mental-models-volume-3",
+      "title": "The Great Mental Models, Volume 3",
+      "author": "Shane Parrish, Rhiannon Beaubien and Rosie Leizrowice",
+      "genre": "Non-Fiction",
+      "themes": [
+        "Mental Models",
+        "Systems Thinking",
+        "Mathematics"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0593719999.01._SCLZZZZZZZ_.jpg",
+      "description": "Systems and Mathematics. The third volume takes on feedback, compounding, power laws, and the margin of safety — the models behind how complex things grow, break, and endure.",
+      "amazonUrl": "https://www.amazon.com/dp/0593719999",
+      "list": "new-arrival",
+      "mentalModels": [
+        "systems-thinking",
+        "feedback-loops",
+        "compounding",
+        "power-laws",
+        "margin-of-safety"
+      ],
+      "year": 2021
+    },
+    {
+      "id": "super-thinking",
+      "title": "Super Thinking",
+      "author": "Gabriel Weinberg and Lauren McCann",
+      "genre": "Non-Fiction",
+      "themes": [
+        "Mental Models",
+        "Decision Making",
+        "Psychology"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0525533583.01._SCLZZZZZZZ_.jpg",
+      "description": "The Big Book of Mental Models. Weinberg and McCann's field guide to hundreds of named concepts from psychology, economics, and physics, organized as a practical toolkit for better decisions.",
+      "amazonUrl": "https://www.amazon.com/dp/0525533583",
+      "list": "new-arrival",
+      "mentalModels": [
+        "inversion",
+        "incentives",
+        "second-order-thinking",
+        "social-proof"
+      ],
+      "year": 2019
+    },
+    {
+      "id": "poor-charlies-almanack",
+      "title": "Poor Charlie's Almanack",
+      "author": "Charles T. Munger",
+      "genre": "Business",
+      "themes": [
+        "Investing",
+        "Mental Models",
+        "Wisdom"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/1953953239.01._SCLZZZZZZZ_.jpg",
+      "description": "Eleven talks by Charles T. Munger, edited by Peter Kaufman: the latticework of mental models, the psychology of human misjudgment, and a lifetime of investing wit — the Stripe Press edition of the 2005 classic.",
+      "amazonUrl": "https://www.amazon.com/dp/1953953239",
+      "list": "new-arrival",
+      "mentalModels": [
+        "inversion",
+        "incentives",
+        "circle-of-competence",
+        "compounding"
+      ],
+      "year": 2005
+    },
+    {
+      "id": "seeking-wisdom",
+      "title": "Seeking Wisdom",
+      "author": "Peter Bevelin",
+      "genre": "Non-Fiction",
+      "themes": [
+        "Mental Models",
+        "Psychology",
+        "Investing"
+      ],
+      "cover": "https://covers.openlibrary.org/b/isbn/9781578644285-L.jpg",
+      "description": "From Darwin to Munger. Bevelin's tour of why we misjudge: how evolution wired the brain to err, and the models and checklists that correct it — the book that carried Munger's latticework to a generation of readers.",
+      "amazonUrl": "https://www.amazon.com/dp/1578644283",
+      "list": "new-arrival",
+      "mentalModels": [
+        "inversion",
+        "incentives",
+        "social-proof",
+        "circle-of-competence"
+      ],
+      "year": 2003
+    },
+    {
+      "id": "antifragile",
+      "title": "Antifragile",
+      "author": "Nassim Nicholas Taleb",
+      "genre": "Non-Fiction",
+      "themes": [
+        "Risk",
+        "Resilience",
+        "Decision Making"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0812979680.01._SCLZZZZZZZ_.jpg",
+      "description": "Things That Gain from Disorder. Taleb's argument that the opposite of fragile is not robust but antifragile — and how to build lives, careers, and systems that strengthen under stress. The centerpiece of the Incerto series.",
+      "amazonUrl": "https://www.amazon.com/dp/0812979680",
+      "list": "new-arrival",
+      "mentalModels": [
+        "antifragility",
+        "the-lindy-effect",
+        "hormesis",
+        "second-order-thinking"
+      ],
+      "year": 2012
+    },
+    {
+      "id": "the-millionaire-next-door",
+      "title": "The Millionaire Next Door",
+      "author": "Thomas J. Stanley and William D. Danko",
+      "genre": "Business",
+      "themes": [
+        "Personal Finance",
+        "Wealth",
+        "Behavior"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/1589795474.01._SCLZZZZZZZ_.jpg",
+      "description": "The Surprising Secrets of America's Wealthy. Stanley and Danko's landmark research: most millionaires live below their means and accumulate quietly — the seven traits their studies found again and again.",
+      "amazonUrl": "https://www.amazon.com/dp/1589795474",
+      "list": "new-arrival",
+      "mentalModels": [
+        "compounding",
+        "opportunity-cost"
+      ],
+      "year": 1996
+    },
+    {
+      "id": "your-money-or-your-life",
+      "title": "Your Money or Your Life",
+      "author": "Vicki Robin and Joe Dominguez",
+      "genre": "Business",
+      "themes": [
+        "Personal Finance",
+        "Financial Independence",
+        "Simple Living"
+      ],
+      "cover": "https://images-na.ssl-images-amazon.com/images/P/0143115766.01._SCLZZZZZZZ_.jpg",
+      "description": "The nine-step program that reframed money as life energy: how the hours you trade for dollars can be spent deliberately instead — and your time bought back. Fully revised and updated for 2018.",
+      "amazonUrl": "https://www.amazon.com/dp/0143115766",
+      "list": "new-arrival",
+      "mentalModels": [
+        "compounding",
+        "opportunity-cost"
+      ],
+      "year": 1992
     }
   ],
   "products": [
