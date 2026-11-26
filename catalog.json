@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T17:04:34Z",
+  "updatedAt": "2026-11-26T17:33:21Z",
   "categories": [
     {
       "id": "books",
@@ -2568,6 +2568,12 @@
       ],
       "tags": [
         "Automatic"
+      ],
+      "retailers": [
+        {
+          "label": "Amazon",
+          "url": "https://www.amazon.com/dp/B07ZHQDQB2?tag=amindofvalor-20"
+        }
       ]
     },
     {
