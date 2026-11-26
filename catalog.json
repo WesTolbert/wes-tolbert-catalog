@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T16:50:03Z",
+  "updatedAt": "2026-11-26T17:04:34Z",
   "categories": [
     {
       "id": "books",
@@ -2590,6 +2590,12 @@
       ],
       "tags": [
         "Mechanical"
+      ],
+      "retailers": [
+        {
+          "label": "Jared",
+          "url": "https://www.jared.com/hamilton-khaki-field-mechanical-mens-watch-h69439931/p/V-302324203"
+        }
       ]
     },
     {
